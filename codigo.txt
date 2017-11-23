@@ -1,0 +1,68 @@
+Sub LerDocumento()
+  
+    Dim appWord As Word.Application
+    Dim doc As Word.Document
+    Dim prg As Paragraph
+    Dim wdrange As Word.Range
+    
+    Dim paragrafoLocalizado As String
+    
+    Dim i As Integer
+    
+    Set appWord = CreateObject("Word.Application")
+    appWord.Visible = True
+    Set doc = appWord.Documents.Open("C:\Users\evald\iCloudDrive\Pessoal\Concept\Projeto Contabilidade\Leitura de Documentos\legisweb-consulta-72172090.docx")
+
+    Set wdrange = doc.Range
+    
+    wdrange.ParagraphFormat.SpaceAfter = 0
+    wdrange.ParagraphFormat.SpaceBefore = 0
+    wdrange.ParagraphFormat.SpaceAfterAuto = 0
+    wdrange.ParagraphFormat.SpaceBeforeAuto = 0
+    
+    wdrange.ParagraphFormat.LineSpacingRule = wdLineSpaceAtLeast
+    wdrange.ParagraphFormat.LineSpacing = 0.7
+    
+    For i = 1 To doc.Paragraphs.Count
+    
+        Set prg = doc.Paragraphs(i)
+        
+        If Len(prg.Range.Text) > 0 Then
+        
+            paragrafoLocalizado = prg.Range.Text
+            
+            paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(13), Chr(32))
+            paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(9), "")
+            paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(10), "")
+            paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(16), "")
+            paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(Asc(Mid(paragrafoLocalizado, Len(paragrafoLocalizado), 1))), "")
+                        
+            If Trim(paragrafoLocalizado) = "Segmento" Then
+                i = i + 2
+                Set prg = doc.Paragraphs(i)
+                
+                paragrafoLocalizado = prg.Range.Text
+            
+                paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(13), Chr(32))
+                paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(9), "")
+                paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(10), "")
+                paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(16), "")
+                paragrafoLocalizado = Replace(paragrafoLocalizado, Chr(Asc(Mid(paragrafoLocalizado, Len(paragrafoLocalizado), 1))), "")
+                
+                ActiveSheet ("NCM")
+                Range("B2").Value = paragrafoLocalizado
+                
+                
+            End If
+            
+        End If
+            
+     Next i
+     
+     doc.Close
+     Set doc = Nothing
+     Set appWord = Nothing
+     
+End Sub
+
+
