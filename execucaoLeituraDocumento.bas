@@ -10,9 +10,30 @@ Dim codigoNCM As String
 Dim i As Integer
 Sub LerDocumento()
      
+    Call LerPorDocumento("C:\Users\evald\iCloudDrive\Pessoal\Concept\Projeto Contabilidade\Leitura de Documentos\legisweb-consulta-82031010.doc")
+    Call LerPorDocumento("C:\Users\evald\iCloudDrive\Pessoal\Concept\Projeto Contabilidade\Leitura de Documentos\legisweb-consulta-72172090.docx")
+     
+End Sub
+
+Function trataCaracterTextoLidoDoc(texto As String) As String
+    
+    texto = Replace(texto, Chr(13), Chr(32))
+    texto = Replace(texto, Chr(9), "")
+    texto = Replace(texto, Chr(10), "")
+    texto = Replace(texto, Chr(16), "")
+    texto = Replace(texto, Chr(Asc(Mid(texto, Len(texto), 1))), "")
+    
+    trataCaracterTextoLidoDoc = texto
+    
+End Function
+
+Sub LerPorDocumento(strCaminho As String)
+
+    Dim posicaoNumeroLinha As Integer
+
     Set appWord = CreateObject("Word.Application")
     appWord.Visible = True
-    Set doc = appWord.Documents.Open("C:\Users\evald\iCloudDrive\Pessoal\Concept\Projeto Contabilidade\Leitura de Documentos\legisweb-consulta-82031010.doc")
+    Set doc = appWord.Documents.Open(strCaminho)
 
     Set wdrange = doc.Range
     
@@ -30,18 +51,19 @@ Sub LerDocumento()
     'Planilha NCM
     '---------------------------------------------------------------------
     Worksheets("NCM").Activate
+    posicaoNumeroLinha = posicaoDeLinha()
     
     'Descrição do Segmento
     i = i + 2
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("C2").Value = paragrafoLocalizado
+    Range("C" + CStr(posicaoNumeroLinha)).Value = paragrafoLocalizado
     
     'NCM
     i = i + 6
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("A2").Value = Trim(paragrafoLocalizado)
+    Range("A" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     codigoNCM = Trim(paragrafoLocalizado)
     
@@ -50,86 +72,89 @@ Sub LerDocumento()
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
     Worksheets("NCM").Activate
-    Range("B2").Value = Trim(paragrafoLocalizado)
+    Range("B" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     'Código do CEST
     i = i + 1
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
     Worksheets("NCM").Activate
-    Range("D2").Value = Trim(paragrafoLocalizado)
+    Range("D" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
 
     '---------------------------------------------------------------------
     'Planilha Base Legal
     '---------------------------------------------------------------------
     Worksheets("BASE_LEGAL").Activate
-    Range("A2").Value = codigoNCM
+    posicaoNumeroLinha = posicaoDeLinha()
+    Range("A" + CStr(posicaoNumeroLinha)).Value = codigoNCM
     
     'UF
     i = i + 3
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("B2").Value = Trim(paragrafoLocalizado)
+    Range("B" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     'Descrição da Base Legal
     i = i + 4
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
     Worksheets("BASE_LEGAL").Activate
-    Range("C2").Value = Trim(paragrafoLocalizado)
+    Range("C" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     'Base de Cálculo
     i = i + 1
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("D2").Value = IIf(Trim(paragrafoLocalizado) = "-", 0, Trim(paragrafoLocalizado))
+    Range("D" + CStr(posicaoNumeroLinha)).Value = IIf(Trim(paragrafoLocalizado) = "-", 0, Trim(paragrafoLocalizado))
     
     'Início da Vigência
     i = i + 5
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("E2").Value = Trim(paragrafoLocalizado)
+    Range("E" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     'Fim da Vigência
     i = i + 1
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("F2").Value = IIf(Not IsDate(Trim(paragrafoLocalizado)), "31/12/2100", Trim(paragrafoLocalizado))
+    Range("F" + CStr(posicaoNumeroLinha)).Value = IIf(Not IsDate(Trim(paragrafoLocalizado)), "31/12/2100", Trim(paragrafoLocalizado))
     
     '---------------------------------------------------------------------
     'Planilha MVA Original
     '---------------------------------------------------------------------
     Worksheets("ALIQUOTAS_MVA").Activate
-    Range("A2").Value = codigoNCM
+    posicaoNumeroLinha = posicaoDeLinha()
+    Range("A" + CStr(posicaoNumeroLinha)).Value = codigoNCM
     
     'MVA Original
     i = i + 8
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("B2").Value = Trim(paragrafoLocalizado)
+    Range("B" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     'MVA Ajustada 4%
     i = i + 1
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("C2").Value = Trim(paragrafoLocalizado)
+    Range("C" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     'MVA Ajustada 12%
     i = i + 1
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("D2").Value = Trim(paragrafoLocalizado)
+    Range("D" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     'Alíquota Interna
     i = i + 4
     Set prg = doc.Paragraphs(i)
     paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-    Range("E2").Value = Trim(paragrafoLocalizado)
+    Range("E" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
     
     '---------------------------------------------------------------------
     'IPI
     '---------------------------------------------------------------------
     Worksheets("IPI").Activate
+    posicaoNumeroLinha = posicaoDeLinha()
     
     'Descrição
     i = i + 6
@@ -138,37 +163,37 @@ Sub LerDocumento()
     
     If Trim(paragrafoLocalizado) = "NCM" Then
         
-        Range("A2").Value = codigoNCM
+        Range("A" + CStr(posicaoNumeroLinha)).Value = codigoNCM
         
         i = i + 8
         Set prg = doc.Paragraphs(i)
         paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-        Range("B2").Value = Trim(paragrafoLocalizado)
+        Range("B" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
         
         i = i + 1
         Set prg = doc.Paragraphs(i)
         paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-        Range("C2").Value = Trim(paragrafoLocalizado)
+        Range("C" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
                 
         i = i + 1
         Set prg = doc.Paragraphs(i)
         paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-        Range("D2").Value = Trim(paragrafoLocalizado)
+        Range("D" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
         
         i = i + 1
         Set prg = doc.Paragraphs(i)
         paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-        Range("E2").Value = IIf(Not IsDate(Trim(paragrafoLocalizado)), "31/12/2100", Trim(paragrafoLocalizado))
+        Range("E" + CStr(posicaoNumeroLinha)).Value = IIf(Not IsDate(Trim(paragrafoLocalizado)), "31/12/2100", Trim(paragrafoLocalizado))
         
         i = i + 1
         Set prg = doc.Paragraphs(i)
         paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-        Range("F2").Value = IIf(Not IsDate(Trim(paragrafoLocalizado)), "31/12/2100", Trim(paragrafoLocalizado))
+        Range("F" + CStr(posicaoNumeroLinha)).Value = IIf(Not IsDate(Trim(paragrafoLocalizado)), "31/12/2100", Trim(paragrafoLocalizado))
         
         i = i + 4
         Set prg = doc.Paragraphs(i)
         paragrafoLocalizado = trataCaracterTextoLidoDoc(prg.Range.Text)
-        Range("G2").Value = Trim(paragrafoLocalizado)
+        Range("G" + CStr(posicaoNumeroLinha)).Value = Trim(paragrafoLocalizado)
         
     End If
     
@@ -178,20 +203,55 @@ Sub LerDocumento()
     doc.Close
     Set doc = Nothing
     Set appWord = Nothing
-     
-     
+
 End Sub
 
-Function trataCaracterTextoLidoDoc(texto As String) As String
+Function posicaoDeLinha() As Integer
+
+    Dim contador As Integer
     
-    texto = Replace(texto, Chr(13), Chr(32))
-    texto = Replace(texto, Chr(9), "")
-    texto = Replace(texto, Chr(10), "")
-    texto = Replace(texto, Chr(16), "")
-    texto = Replace(texto, Chr(Asc(Mid(texto, Len(texto), 1))), "")
+    contador = 1
     
-    trataCaracterTextoLidoDoc = texto
+    Do While Range("A" + CStr(contador)).Text <> ""
+        contador = contador + 1
+    Loop
+    
+    posicaoDeLinha = contador
     
 End Function
 
+Public Function ListaArquivos(ByVal Caminho As String) As String()
 
+'Atenção: Faça referência à biblioteca Micrsoft Scripting Runtime
+Dim FSO As New FileSystemObject
+Dim result() As String
+Dim Pasta As Folder
+Dim Arquivo As File
+Dim Indice As Long
+  
+    ReDim result(0) As String
+    If FSO.FolderExists(Caminho) Then
+        Set Pasta = FSO.GetFolder(Caminho)
+ 
+        For Each Arquivo In Pasta.Files
+            Indice = IIf(result(0) = "", 0, Indice + 1)
+            ReDim Preserve result(Indice) As String
+            result(Indice) = Arquivo.Name
+        Next
+    End If
+ 
+    ListaArquivos = result
+ErrHandler:
+    Set FSO = Nothing
+    Set Pasta = Nothing
+    Set Arquivo = Nothing
+End Function
+
+Private Sub ListaArquivosNoDiretorio()
+    Dim arquivos() As String
+    Dim lCtr As Long
+    arquivos = ListaArquivos("C:\Users\evald\iCloudDrive\Pessoal\Concept\Projeto Contabilidade\Leitura de Documentos")
+    For lCtr = 0 To UBound(arquivos)
+      Debug.Print arquivos(lCtr)
+    Next
+End Sub
