@@ -1,4 +1,6 @@
 Attribute VB_Name = "execucaoLeituraDocumento"
+Public arrayArquivo() As String
+
 Dim appWord As Word.Application
 Dim doc As Word.Document
 Dim prg As Paragraph
@@ -8,14 +10,9 @@ Dim paragrafoLocalizado As String
 Dim codigoNCM As String
 
 Dim i As Integer
-Sub LerDocumento()
-     
-    Call LerPorDocumento("C:\Users\evald\iCloudDrive\Pessoal\Concept\Projeto Contabilidade\Leitura de Documentos\legisweb-consulta-82031010.doc")
-    Call LerPorDocumento("C:\Users\evald\iCloudDrive\Pessoal\Concept\Projeto Contabilidade\Leitura de Documentos\legisweb-consulta-72172090.docx")
-     
-End Sub
 
-Function trataCaracterTextoLidoDoc(texto As String) As String
+
+Private Function trataCaracterTextoLidoDoc(texto As String) As String
     
     texto = Replace(texto, Chr(13), Chr(32))
     texto = Replace(texto, Chr(9), "")
@@ -27,7 +24,7 @@ Function trataCaracterTextoLidoDoc(texto As String) As String
     
 End Function
 
-Sub LerPorDocumento(strCaminho As String)
+Public Sub LerPorDocumento(strCaminho As String)
 
     Dim posicaoNumeroLinha As Integer
 
@@ -206,7 +203,7 @@ Sub LerPorDocumento(strCaminho As String)
 
 End Sub
 
-Function posicaoDeLinha() As Integer
+Private Function posicaoDeLinha() As Integer
 
     Dim contador As Integer
     
@@ -220,23 +217,23 @@ Function posicaoDeLinha() As Integer
     
 End Function
 
-Public Function ListaArquivos(ByVal Caminho As String) As String()
+Private Function ListaArquivos(ByVal caminho As String) As String()
 
 'Atenção: Faça referência à biblioteca Micrsoft Scripting Runtime
 Dim FSO As New FileSystemObject
 Dim result() As String
 Dim Pasta As Folder
 Dim Arquivo As File
-Dim Indice As Long
+Dim indice As Long
   
     ReDim result(0) As String
-    If FSO.FolderExists(Caminho) Then
-        Set Pasta = FSO.GetFolder(Caminho)
+    If FSO.FolderExists(caminho) Then
+        Set Pasta = FSO.GetFolder(caminho)
  
         For Each Arquivo In Pasta.Files
-            Indice = IIf(result(0) = "", 0, Indice + 1)
-            ReDim Preserve result(Indice) As String
-            result(Indice) = Arquivo.Name
+            indice = IIf(result(0) = "", 0, indice + 1)
+            ReDim Preserve result(indice) As String
+            result(indice) = Arquivo.Name
         Next
     End If
  
@@ -247,11 +244,23 @@ ErrHandler:
     Set Arquivo = Nothing
 End Function
 
-Private Sub ListaArquivosNoDiretorio()
+Public Sub ListaArquivosNoDiretorio(caminho As String)
+    
     Dim arquivos() As String
-    Dim lCtr As Long
-    arquivos = ListaArquivos("C:\Users\evald\iCloudDrive\Pessoal\Concept\Projeto Contabilidade\Leitura de Documentos")
+    Dim lCtr As Integer
+    
+    arquivos = ListaArquivos(caminho)
+    ReDim arrayArquivo(UBound(arquivos))
+    
     For lCtr = 0 To UBound(arquivos)
-      Debug.Print arquivos(lCtr)
+        
+        arrayArquivo(lCtr) = arquivos(lCtr)
     Next
+    
+End Sub
+
+Public Sub abrirForm()
+    
+    frmArquivosImportados.Show
+    
 End Sub
