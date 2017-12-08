@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+<html lang="pt-br"> <head> <title>Sistemas - Consulta de CST - ICMS - Navegar</title> <style>body{
+    font-family: 'Helvetica';
+    font-size: 11px;
+    line-height: 13px;
+    text-align: left;
+    font-weight: normal;
+}
+
+.head-wrapper, .footer-wrapper, #footer, .modal, #breads, #wizard, .icones-intra, .visible-xs,
+hr, button, .btn, .pagination, .hidden, #menu_bd, .topico-tools{
+    display:none;
+    visibility: hidden;
+}
+.topico-texto-box{
+    display:block !important;
+}
+hr{
+    display: none;
+}
+a{
+    color: #555;
+}
+h3{
+    font-size: 16px;
+    text-transform: uppercase;
+}
+h4{
+    font-size: 14px;
+}
+.active{
+    background-color: #ddd;
+}
+.hidden-print{
+    display:none !important;
+    visibility: hidden !important;
+    font-size: 0;
+    max-height: 0;
+    line-height: 0;
+    mso-hide: all;
+}
+
+/* Inputs */
+input, select, textarea{
+    min-width: 50px;
+    max-width: 100%;
+    width: 300px;
+}
+
+label{
+    font-size: 11px;
+}
+
+/*Tabelas*/
+tbody:before, tbody:after { 
+    display: none;
+}
+
+table{
+    margin: 20px 0;
+    width: 100%;
+    overflow: wrap;
+}
+thead {
+/*        display: table-header-group;*/
+}
+tbody{
+/*        display: table-row-group;*/
+}
+table, td, th{
+    border-collapse: collapse;
+    border:solid 1px #999;
+    overflow: wrap;
+/*        word-wrap: break-word;*/
+}
+th{
+    background-color: #ddd;
+    padding: 3px 5px;
+}
+td{
+    padding: 3px 5px;
+}
+
+/*
+Alertas
+*/
+.alert{
+    border: solid 1px #999; 
+    padding: 10px;
+}
+
+.nota_lw{
+    background-color: #ddd;
+    padding: 10px 20px;
+    font-style: italic;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+/*
+Geral
+*/
+.alert{
+    margin: 10px 5px;
+    padding: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.container{
+    display: table;
+}
+
+.print-header{
+    position: running(header); /*(exibir apenas na primeira pagian)*/
+    top: 0mm;
+    width: 100%;
+    height:45px;
+    border-bottom:solid 1px #bbb;        
+}
+
+.print-logo-left{
+    position: absolute;
+    left:5px;
+    max-height: 40px;
+    max-width: 400px;
+}
+
+.print-logo-right{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 545px;
+}
+
+.print-footer{
+/*        display: table-footer-group;*/
+    position: absolute;
+    bottom: 0px; 
+    width: 100%; 
+    border-top:solid 1px #bbb;
+    padding: 5px 0 0 0;
+    color: #888; 
+    font-size: 11px;
+}
+</style><meta http-equiv="Content-Type" content="text/html; charset=Windows-1252"></head> <body> <div class="container area-assinante"> <div class="row"> <div class="col-md-12" id="consultoria"> <div id="titulo_consultoria"> <h3 class="pull-left">Sistemas - Consulta de CST - ICMS - Navegar</h3> </div> <div class="row"> <div class="pull-right icones-intra" style="margin-top: 0"> <div class="btn-group pull-right" role="group" aria-label="..."> </div> </div> </div> <div class="row"> <div class="col-xs-12"> <div class="espacador hidden-xs"></div> <div class="col-md-offset-1"> </div> <div class="col-xs-12"> <p>Listamos aqui as tabelas que compõem o CST:</p> <p id='nota'> <strong>Nota Explicativa:</strong> <br/> 1. O código de Situação Tributária é composto de três dígitos na forma ABB, onde o 1º dígito deve indicar a origem da mercadoria ou serviço, com base na Tabela A e os 2º e 3º dígitos a tributação pelo ICMS, com base na Tabela B.<br /> <br /> 2. O conteúdo de importação a que se referem os códigos 3 e 5 da Tabela A é aferido de acordo com normas expedidas pelo Conselho Nacional de Política Fazendária - CONFAZ.<br /> <br /> 3. Alista a que se refere a Resolução do Conselho de Ministros da Câmara de Comércio Exterior - CAMEX -, de que tratam os códigos 6 e 7 da Tabela A, contempla, nos termos da Resolução do Senado Federal nº 13/12, os bens ou mercadorias importados sem similar nacional. </p> <br class="visible-xs"> </div> <div class="col-md-offset-1"> <br> <h4 class="text-left"><strong>Tabela A - Origem da Mercadoria</strong></h4> <div id='table_a'> <table class="table table-bordered"> <thead> <tr class="active"> <td class="text-center col-md-1"><strong>Código</strong></td> <td><strong>Descrição</strong></td> </tr> </thead> <tbody> <tr> <td class="text-center"><strong>0</strong></td> <td>Nacional, exceto as indicadas nos códigos 3, 4, 5 e 8</td> </tr> <tr> <td class="text-center"><strong>1</strong></td> <td>Estrangeira - Importação direta, exceto a indicada no código 6</td> </tr> <tr> <td class="text-center"><strong>2</strong></td> <td>Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7</td> </tr> <tr> <td class="text-center"><strong>3</strong></td> <td>Nacional, mercadoria ou bem com Conteúdo de Importação superior a 40% (quarenta por cento) e inferior ou igual a 70% (setenta por cento)</td> </tr> <tr> <td class="text-center"><strong>4</strong></td> <td>Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos de que tratam o Decreto-Lei nº 288/67, e as Leis nºs 8.248/1991, 8.387/1991, 10.176/2001 e 11.484/2007</td> </tr> <tr> <td class="text-center"><strong>5</strong></td> <td>Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40% (quarenta por cento)</td> </tr> <tr> <td class="text-center"><strong>6</strong></td> <td>Estrangeira - Importação direta, sem similar nacional, constante em lista de Resolução CAMEX e gás natural</td> </tr> <tr> <td class="text-center"><strong>7</strong></td> <td>Estrangeira - Adquirida no mercado interno, sem similar nacional, constante em lista de Resolução CAMEX e gás natural</td> </tr> <tr> <td class="text-center"><strong>8</strong></td> <td>Nacional, mercadoria ou bem com Conteúdo de Importação superior a 70% (setenta por cento)</td> </tr> </tbody> </table> </div> <br> <h4 class="text-left"> <strong>Tabela B - Tributação pelo ICMS</strong> </h4> <div id='table_b'> <table class="table table-bordered"> <thead> <tr class="active"> <th class="text-center col-md-1"> <strong>Código</strong> </th> <th> <strong>Descrição</strong> </th> </tr> </thead> <tbody> <tr> <td class="text-center"> <strong>00</strong> </td> <td> Tributada integralmente </td> </tr> <tr> <td class="text-center"> <strong>10</strong> </td> <td> Tributada e com cobrança do ICMS por substituição tributária </td> </tr> <tr> <td class="text-center"> <strong>20</strong> </td> <td> Com redução de base de cálculo </td> </tr> <tr> <td class="text-center"> <strong>30</strong> </td> <td> Isenta ou não tributada e com cobrança do ICMS por substituição tributária </td> </tr> <tr> <td class="text-center"> <strong>40</strong> </td> <td> Isenta </td> </tr> <tr> <td class="text-center"> <strong>41</strong> </td> <td> Não Tributada </td> </tr> <tr> <td class="text-center"> <strong>50</strong> </td> <td> Suspensão </td> </tr> <tr> <td class="text-center"> <strong>51</strong> </td> <td> Diferimento </td> </tr> <tr> <td class="text-center"> <strong>60</strong> </td> <td> ICMS cobrado anteriormente por substituição tributária </td> </tr> <tr> <td class="text-center"> <strong>70</strong> </td> <td> Com redução de base de cálculo e cobrança do ICMS por substituição tributária </td> </tr> <tr> <td class="text-center"> <strong>90</strong> </td> <td> Outras </td> </tr> </tbody> </table> </div> </div> </div> </div> </div> </div> </div> </body></html>

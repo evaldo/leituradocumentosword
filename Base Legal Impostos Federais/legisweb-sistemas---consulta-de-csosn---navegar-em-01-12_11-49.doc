@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+<html lang="pt-br"> <head> <title>Sistemas - Consulta de CSOSN - Navegar</title> <style>body{
+    font-family: 'Helvetica';
+    font-size: 11px;
+    line-height: 13px;
+    text-align: left;
+    font-weight: normal;
+}
+
+.head-wrapper, .footer-wrapper, #footer, .modal, #breads, #wizard, .icones-intra, .visible-xs,
+hr, button, .btn, .pagination, .hidden, #menu_bd, .topico-tools{
+    display:none;
+    visibility: hidden;
+}
+.topico-texto-box{
+    display:block !important;
+}
+hr{
+    display: none;
+}
+a{
+    color: #555;
+}
+h3{
+    font-size: 16px;
+    text-transform: uppercase;
+}
+h4{
+    font-size: 14px;
+}
+.active{
+    background-color: #ddd;
+}
+.hidden-print{
+    display:none !important;
+    visibility: hidden !important;
+    font-size: 0;
+    max-height: 0;
+    line-height: 0;
+    mso-hide: all;
+}
+
+/* Inputs */
+input, select, textarea{
+    min-width: 50px;
+    max-width: 100%;
+    width: 300px;
+}
+
+label{
+    font-size: 11px;
+}
+
+/*Tabelas*/
+tbody:before, tbody:after { 
+    display: none;
+}
+
+table{
+    margin: 20px 0;
+    width: 100%;
+    overflow: wrap;
+}
+thead {
+/*        display: table-header-group;*/
+}
+tbody{
+/*        display: table-row-group;*/
+}
+table, td, th{
+    border-collapse: collapse;
+    border:solid 1px #999;
+    overflow: wrap;
+/*        word-wrap: break-word;*/
+}
+th{
+    background-color: #ddd;
+    padding: 3px 5px;
+}
+td{
+    padding: 3px 5px;
+}
+
+/*
+Alertas
+*/
+.alert{
+    border: solid 1px #999; 
+    padding: 10px;
+}
+
+.nota_lw{
+    background-color: #ddd;
+    padding: 10px 20px;
+    font-style: italic;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+/*
+Geral
+*/
+.alert{
+    margin: 10px 5px;
+    padding: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.container{
+    display: table;
+}
+
+.print-header{
+    position: running(header); /*(exibir apenas na primeira pagian)*/
+    top: 0mm;
+    width: 100%;
+    height:45px;
+    border-bottom:solid 1px #bbb;        
+}
+
+.print-logo-left{
+    position: absolute;
+    left:5px;
+    max-height: 40px;
+    max-width: 400px;
+}
+
+.print-logo-right{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 545px;
+}
+
+.print-footer{
+/*        display: table-footer-group;*/
+    position: absolute;
+    bottom: 0px; 
+    width: 100%; 
+    border-top:solid 1px #bbb;
+    padding: 5px 0 0 0;
+    color: #888; 
+    font-size: 11px;
+}
+</style><meta http-equiv="Content-Type" content="text/html; charset=Windows-1252"></head> <body> <div class="container area-assinante"> <div class="row"> <div class="col-md-12" id="consultoria"> <div id="titulo_consultoria"> <h3 class="pull-left">Sistemas - Consulta de CSOSN - Navegar</h3> </div> <div class="nopadding"> <div class="row"> <div class="pull-right icones-intra" style="margin-top: 0"> <div class="btn-group pull-right" role="group" aria-label="..."> </div> </div> </div> <div> <h4 class="text-center"><strong>Lista dos códigos CSOSN</strong></h4><br> </div> <div id='table_resultados'> <span class="visible-xs"><small><em></em></small></span> <div class="table-responsive"> <table class="table table-bordered"> <thead> <tr class="active"> <th class='text-center vertical-middle'> <strong>Código</strong> </th> <th class='text-center vertical-middle'> <strong>Título</strong> </th> <th class='text-center vertical-middle'> <strong>Descrição</strong> </th> <th class='text-center vertical-middle'> <strong>Comentário da consultoria Legisweb</strong> </th> </tr> </thead> <tbody> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 101 </strong> </h3> </td> <td class='text-center vertical-middle'> Tributada pelo Simples Nacional com permissão de crédito </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações que permitem a indicação da alíquota do ICMS devido no Simples Nacional e o valor do crédito correspondente. </td> <td class='text-center vertical-middle'> O código 101 será utilizado nos casos em que a operação sofra tributação do ICMS no regime Simples Nacional, na hipótese do destinatário fazer jus à apropriação do crédito do ICMS. De acordo com o artigo 23 da Lei Complementar nº 123/2006, com a redação dada pela Lei Complementar nº 128/2008, as empresas do Simples Nacional poderão transferir os créditos do ICMS, efetivamente devido e recolhido no DAS, às empresas do regime normal de apuração, desde que as mercadorias adquiridas por elas sejam destinadas à comercialização ou industrialização. Não haverá direito a crédito em se tratando de mercadorias destinadas ao ativo permanente ou a uso e consumo do destinatário. De igual forma, não haverá direito a crédito caso o destinatário também seja optante pelo regime Simples Nacional. </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 102 </strong> </h3> </td> <td class='text-center vertical-middle'> Tributada pelo Simples Nacional sem permissão de crédito </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações que não permitem a indicação da alíquota do ICMS devido pelo Simples Nacional e do valor do crédito, e não estejam abrangidas nas hipóteses dos códigos 103, 203, 300, 400, 500 e 900. </td> <td class='text-center vertical-middle'> O código 102 refere-se às operações tributadas pelo ICMS no Simples Nacional, em que não possa haver aproveitamento de crédito do ICMS pelo destinatário da operação. Podemos citar como exemplos de impossibilidade de crédito pelo destinatário: - destinatário optante pelo Simples Nacional; - destinatário não contribuinte do ICMS; - destinatário optante pelo regime normal, mas que adquire a mercadoria para seu ativo fixo ou para utilização como material de uso ou consumo; - emitente sujeito à tributação do ICMS, no Simples Nacional, por valores fixos mensais; - emitente que apura os impostos (inclusive o ICMS), no Simples Nacional, pelo regime de caixa. </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 103 </strong> </h3> </td> <td class='text-center vertical-middle'> Isenção do ICMS no Simples Nacional para faixa de receita bruta </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações praticadas por optantes pelo Simples Nacional contemplados com isenção concedida para faixa de receita bruta nos termos da Lei Complementar nº 123, de 2006. </td> <td class='text-center vertical-middle'> Alguns Estados, como, por exemplo, Paraná e Bahia, concedem isenção do ICMS para algumas faixas de receita bruta. No Paraná, são isentos do ICMS os contribuintes cuja receita bruta acumulada nos doze meses anteriores ao do período de apuração não ultrapasse R$ 360 mil (artigo 3º do Anexo VIII do RICMS/PR). No Estado da Bahia, as microempresas optantes pelo Simples Nacional cuja receita bruta acumulada nos doze meses anteriores ao do período de apuração não ultrapasse R$ 180 mil são isentas do ICMS (artigo 277 do RICMS/BA). Nestes casos, em que tenhamos a isenção do ICMS determinada pela receita bruta do emitente, será utilizado o código 103. </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 201 </strong> </h3> </td> <td class='text-center vertical-middle'> Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações que permitem a indicação da alíquota do ICMS devido pelo Simples Nacional e do valor do crédito, e com cobrança do ICMS por substituição tributária. </td> <td class='text-center vertical-middle'> O código 201 será utilizado pelo contribuinte na condição de substituto tributário. Não vislumbramos na legislação possibilidade de utilização de crédito pelo destinatário da operação, sendo a operação sujeita ao regime da substituição tributária - eis que, neste regime, em regra, o contribuinte substituído não apropria o crédito nas entradas, eis que também não terá o destaque do ICMS nas operações subsequentes. Entendemos que o código 201 será utilizado na hipótese da operação ser destinada a revendedor que seja optante pelo regime normal de apuração. Assim, caso, posteriormente, o contribuinte substituído faça jus ao ressarcimento do ICMS, se a legislação do Estado permitir que tal procedimento seja por meio do aproveitamento do crédito, este já estará indicado no documento fiscal relativo à operação realizada pelo contribuinte substituto. </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 202 </strong> </h3> </td> <td class='text-center vertical-middle'> Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações que não permitem a indicação da alíquota do ICMS devido pelo Simples Nacional e do valor do crédito, e não estejam abrangidas nas hipóteses dos códigos 103, 203, 300, 400, 500 e 900, e com cobrança do ICMS por substituição tributária. </td> <td class='text-center vertical-middle'> O código 202 será utilizado pelo contribuinte na condição de substituto tributário. Em contraponto ao código 201, entendemos que o código 202 será utilizado nas hipóteses em que o destinatário não possa de modo algum aproveitar o crédito do ICMS pago pelo remetente. Como exemplo, podemos citar os casos do destinatário optante pelo Simples Nacional; do emitente sujeito à tributação do ICMS, no Simples Nacional, por valores fixos mensais; e do emitente que apura os impostos (inclusive o ICMS), no Simples Nacional, pelo regime de caixa. </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 203 </strong> </h3> </td> <td class='text-center vertical-middle'> Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações praticadas por optantes pelo Simples Nacional contemplados com isenção para faixa de receita bruta nos termos da Lei Complementar nº 123, de 2006, e com cobrança do ICMS por substituição tributária. </td> <td class='text-center vertical-middle'> O código 203 será utilizado pelo contribuinte na condição de substituto tributário, caso este contribuinte enquadre-se na isenção do ICMS pela faixa de receita bruta. </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 300 </strong> </h3> </td> <td class='text-center vertical-middle'> Imune </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações praticadas por optantes pelo Simples Nacional contempladas com imunidade do ICMS. </td> <td class='text-center vertical-middle'> O código 300 refere-se a operações imunes de tributação pelo ICMS, no Simples Nacional, tais como operações com livros, jornais, periódicos e o papel destinado à sua impressão, e operações destinadas ao exterior (exportações). </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 400 </strong> </h3> </td> <td class='text-center vertical-middle'> Não tributada pelo Simples Nacional </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações praticadas por optantes pelo Simples Nacional não sujeitas à tributação pelo ICMS dentro do Simples Nacional. </td> <td class='text-center vertical-middle'> Como é cediço, as empresas do Simples Nacional apuram seus impostos de acordo com as receitas auferidas. Assim, será utilizado o código 400 para quaisquer operações realizadas que não gerem ao contribuinte receita, consequentemente não serão tributadas no Simples Nacional. Como exemplo, podemos citar as operações de remessa de um modo geral (remessa para industrialização por encomenda, remessa para utilização em prestação de serviço, remessa para locação, remessa em comodato, remessa em demonstração, remessa para conserto), e as operações realizadas a título gratuito (amostras, bonificações, doações, brindes). </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 500 </strong> </h3> </td> <td class='text-center vertical-middle'> ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação </td> <td class='text-center vertical-middle'> Classificam-se neste código as operações sujeitas exclusivamente ao regime de substituição tributária na condição de substituído tributário ou no caso de antecipações. </td> <td class='text-center vertical-middle'> Será utilizado o código 500 sempre que o contribuinte optante pelo Simples Nacional, emitente da nota, esteja na condição de substituído, tendo o ICMS referente à operação recolhido anteriormente, por substituição tributária ou por antecipação. </td> </tr> <tr class="text-justify"> <td class='text-center vertical-middle'> <h3> <strong> 900 </strong> </h3> </td> <td class='text-center vertical-middle'> Outros </td> <td class='text-center vertical-middle'> Classificam-se neste código as demais operações que não se enquadrem nos códigos 101, 102, 103, 201, 202, 203, 300, 400 e 500. </td> <td class='text-center vertical-middle'> O código 900 será utilizado nos casos que não se enquadrem nos códigos anteriores. Alguns exemplos: - nas importações de mercadorias, em que o ICMS é pago à parte do regime Simples Nacional, diretamente ao Estado; - nas demais hipóteses de emissão de nota fiscal de entrada pelo contribuinte optante pelo Simples Nacional, na condição de destinatário da operação, não se enquadrando a operação nos demais códigos; - nas operações isentas do ICMS, nos casos em que a legislação trouxer previsão expressa para a isenção do ICMS nas operações realizadas por contribuintes optantes pelo Simples Nacional (diferente dos códigos 103 e 203; - operações realizadas pelos contribuintes optantes pelo Simples Nacional, com aplicação do diferimento do ICMS, conforme determinação da legislação estadual. </td> </tr> </tbody> </table> </div> </div> </div> </div> </div> </div> </body></html>

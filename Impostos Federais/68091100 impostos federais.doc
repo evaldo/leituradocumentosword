@@ -15,10 +15,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Evaldo de Oliveira da Silva</o:Author>
   <o:LastAuthor>Evaldo de Oliveira da Silva</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2017-11-30T02:28:00Z</o:Created>
-  <o:LastSaved>2017-11-30T02:28:00Z</o:LastSaved>
+  <o:LastSaved>2017-12-01T12:35:00Z</o:LastSaved>
   <o:Pages>2</o:Pages>
   <o:Words>764</o:Words>
   <o:Characters>4126</o:Characters>
@@ -53,6 +53,7 @@ href="68091100%20impostos%20federais_arquivos/colorschememapping.xml">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -823,6 +824,8 @@ span.Ttulo4Char
 	font-style:italic;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -835,6 +838,8 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	mso-fareast-theme-font:minor-fareast;}
 p.active, li.active, div.active
 	{mso-style-name:active;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -848,6 +853,8 @@ p.active, li.active, div.active
 	mso-fareast-theme-font:minor-fareast;}
 p.hidden-print, li.hidden-print, div.hidden-print
 	{mso-style-name:hidden-print;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -863,6 +870,8 @@ p.hidden-print, li.hidden-print, div.hidden-print
 	mso-hide:all;}
 p.alert, li.alert, div.alert
 	{mso-style-name:alert;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin-top:7.5pt;
 	margin-right:3.75pt;
@@ -879,6 +888,8 @@ p.alert, li.alert, div.alert
 	mso-fareast-theme-font:minor-fareast;}
 p.notalw, li.notalw, div.notalw
 	{mso-style-name:nota_lw;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -894,6 +905,8 @@ p.notalw, li.notalw, div.notalw
 	font-style:italic;}
 p.text-center, li.text-center, div.text-center
 	{mso-style-name:text-center;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -907,6 +920,8 @@ p.text-center, li.text-center, div.text-center
 	mso-fareast-theme-font:minor-fareast;}
 p.print-header, li.print-header, div.print-header
 	{mso-style-name:print-header;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -923,6 +938,8 @@ p.print-header, li.print-header, div.print-header
 	mso-fareast-theme-font:minor-fareast;}
 p.print-logo-left, li.print-logo-left, div.print-logo-left
 	{mso-style-name:print-logo-left;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -935,6 +952,8 @@ p.print-logo-left, li.print-logo-left, div.print-logo-left
 	mso-fareast-theme-font:minor-fareast;}
 p.print-logo-right, li.print-logo-right, div.print-logo-right
 	{mso-style-name:print-logo-right;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin-top:7.5pt;
 	margin-right:0cm;
@@ -947,6 +966,8 @@ p.print-logo-right, li.print-logo-right, div.print-logo-right
 	mso-fareast-theme-font:minor-fareast;}
 p.print-footer, li.print-footer, div.print-footer
 	{mso-style-name:print-footer;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -964,6 +985,8 @@ p.print-footer, li.print-footer, div.print-footer
 	color:#888888;}
 p.topico-texto-box, li.topico-texto-box, div.topico-texto-box
 	{mso-style-name:topico-texto-box;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -1065,6 +1088,81 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
+@list l1
+	{mso-list-id:1910920433;
+	mso-list-template-ids:-989402600;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 ol
 	{margin-bottom:0cm;}
 ul
@@ -1133,7 +1231,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1188,8 +1286,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Tabela de Incidência do Imposto
-  sobre Produtos Industrializados - TIPI - Decreto nº 8.950 de 30/12/2016 <o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>Tabela de Incidência do Imposto sobre
+  Produtos Industrializados - TIPI - Decreto nº 8.950 de 30/12/2016 <o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
@@ -1277,8 +1375,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
   8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
   <strong><span style='font-family:"Helvetica",sans-serif'>Seção:</span></strong>
-  13 - OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS
-  SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS<o:p></o:p></span></p>
+  13 - OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES;
+  PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -1304,7 +1402,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1372,8 +1470,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Quando não houver outras hipótes
-  de enquadramento para Regime não Cumulativo<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>Quando não houver outras hipótes de
+  enquadramento para Regime não Cumulativo<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1435,7 +1533,7 @@ Consultar desoneração por CNAE <o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1495,7 +1593,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td colspan=5 style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -2659,7 +2757,7 @@ para consultar a incidência de ST para a NCM pesquisada:<o:p></o:p></span></p>
 
 <ul style='margin-top:0cm' type=disc id="abas_estados">
  <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
+     mso-list:l0 level1 lfo3;display:none;tab-stops:list 36.0pt'><span
      style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
      "Times New Roman";display:none;mso-hide:all'>Mato Grosso <sup>(1)</sup><o:p></o:p></span></li>
 </ul>
@@ -2689,7 +2787,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>

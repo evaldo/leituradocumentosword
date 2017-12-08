@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+<html lang="pt-br"> <head> <title>Sistemas - Consulta de CST - IPI</title> <style>body{
+    font-family: 'Helvetica';
+    font-size: 11px;
+    line-height: 13px;
+    text-align: left;
+    font-weight: normal;
+}
+
+.head-wrapper, .footer-wrapper, #footer, .modal, #breads, #wizard, .icones-intra, .visible-xs,
+hr, button, .btn, .pagination, .hidden, #menu_bd, .topico-tools{
+    display:none;
+    visibility: hidden;
+}
+.topico-texto-box{
+    display:block !important;
+}
+hr{
+    display: none;
+}
+a{
+    color: #555;
+}
+h3{
+    font-size: 16px;
+    text-transform: uppercase;
+}
+h4{
+    font-size: 14px;
+}
+.active{
+    background-color: #ddd;
+}
+.hidden-print{
+    display:none !important;
+    visibility: hidden !important;
+    font-size: 0;
+    max-height: 0;
+    line-height: 0;
+    mso-hide: all;
+}
+
+/* Inputs */
+input, select, textarea{
+    min-width: 50px;
+    max-width: 100%;
+    width: 300px;
+}
+
+label{
+    font-size: 11px;
+}
+
+/*Tabelas*/
+tbody:before, tbody:after { 
+    display: none;
+}
+
+table{
+    margin: 20px 0;
+    width: 100%;
+    overflow: wrap;
+}
+thead {
+/*        display: table-header-group;*/
+}
+tbody{
+/*        display: table-row-group;*/
+}
+table, td, th{
+    border-collapse: collapse;
+    border:solid 1px #999;
+    overflow: wrap;
+/*        word-wrap: break-word;*/
+}
+th{
+    background-color: #ddd;
+    padding: 3px 5px;
+}
+td{
+    padding: 3px 5px;
+}
+
+/*
+Alertas
+*/
+.alert{
+    border: solid 1px #999; 
+    padding: 10px;
+}
+
+.nota_lw{
+    background-color: #ddd;
+    padding: 10px 20px;
+    font-style: italic;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+/*
+Geral
+*/
+.alert{
+    margin: 10px 5px;
+    padding: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.container{
+    display: table;
+}
+
+.print-header{
+    position: running(header); /*(exibir apenas na primeira pagian)*/
+    top: 0mm;
+    width: 100%;
+    height:45px;
+    border-bottom:solid 1px #bbb;        
+}
+
+.print-logo-left{
+    position: absolute;
+    left:5px;
+    max-height: 40px;
+    max-width: 400px;
+}
+
+.print-logo-right{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 545px;
+}
+
+.print-footer{
+/*        display: table-footer-group;*/
+    position: absolute;
+    bottom: 0px; 
+    width: 100%; 
+    border-top:solid 1px #bbb;
+    padding: 5px 0 0 0;
+    color: #888; 
+    font-size: 11px;
+}
+</style><meta http-equiv="Content-Type" content="text/html; charset=Windows-1252"></head> <body> <div class="container area-assinante"> <div class="row"> <div class="col-md-12" id="consultoria"> <div id="titulo_consultoria"> <h3 class="pull-left">Sistemas - Consulta de CST - IPI</h3> </div> <div class="row"> <div class="col-md-12"> <div class="pull-right icones-intra" style="margin-top: 0"> <div class="btn-group pull-right" role="group" aria-label="..."> </div> </div> </div> <div class="col-sm-6"> <p class="hidden-print" style="mso-hide:all;" >Consulte os Códigos da Situação Tributária do IPI:</p> </div> </div> <div class="col-md-offset-1"> <br class="hidden-xs"> <table class="table table-striped table-bordered"> <thead> <tr class="bg-primary"> <th class="text-center vertical-middle"> <strong>Código</strong> </th> <th class="text-center vertical-middle"> <strong>Descrição</strong> </th> </tr> </thead> <tbody> <tr> <td class="text-center" id='cst'> <strong>00</strong> </td> <td id='descricao'>Entrada com Recuperação de Crédito</td> </tr> <tr> <td class="text-center" id='cst'> <strong>01</strong> </td> <td id='descricao'>Entrada Tributável com Alíquota Zero</td> </tr> <tr> <td class="text-center" id='cst'> <strong>02</strong> </td> <td id='descricao'>Entrada Isenta</td> </tr> <tr> <td class="text-center" id='cst'> <strong>03</strong> </td> <td id='descricao'>Entrada Não-Tributada</td> </tr> <tr> <td class="text-center" id='cst'> <strong>04</strong> </td> <td id='descricao'>Entrada Imune</td> </tr> <tr> <td class="text-center" id='cst'> <strong>05</strong> </td> <td id='descricao'>Entrada com Suspensão</td> </tr> <tr> <td class="text-center" id='cst'> <strong>49</strong> </td> <td id='descricao'>Outras Entradas</td> </tr> <tr> <td class="text-center" id='cst'> <strong>50</strong> </td> <td id='descricao'>Saída Tributada</td> </tr> <tr> <td class="text-center" id='cst'> <strong>51</strong> </td> <td id='descricao'>Saída Tributável com Alíquota Zero</td> </tr> <tr> <td class="text-center" id='cst'> <strong>52</strong> </td> <td id='descricao'>Saída Isenta</td> </tr> <tr> <td class="text-center" id='cst'> <strong>53</strong> </td> <td id='descricao'>Saída Não-Tributada</td> </tr> <tr> <td class="text-center" id='cst'> <strong>54</strong> </td> <td id='descricao'>Saída Imune</td> </tr> <tr> <td class="text-center" id='cst'> <strong>55</strong> </td> <td id='descricao'>Saída com Suspensão</td> </tr> <tr> <td class="text-center" id='cst'> <strong>99</strong> </td> <td id='descricao'>Outras Saídas</td> </tr> </tbody> </table> </div> <br/> <br/> </div> </div> </div> </body></html>

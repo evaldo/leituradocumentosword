@@ -9,22 +9,22 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="68099000%20impostos%20federais_arquivos/filelist.xml">
+<link rel=File-List href="72166110%20impostos%20federais_arquivos/filelist.xml">
 <title>Sistemas - Impostos e Alíquotas</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Evaldo de Oliveira da Silva</o:Author>
   <o:LastAuthor>Evaldo de Oliveira da Silva</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2017-11-30T02:28:00Z</o:Created>
-  <o:LastSaved>2017-11-30T02:28:00Z</o:LastSaved>
-  <o:Pages>2</o:Pages>
-  <o:Words>736</o:Words>
-  <o:Characters>3979</o:Characters>
-  <o:Lines>33</o:Lines>
-  <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4706</o:CharactersWithSpaces>
+  <o:LastSaved>2017-12-01T12:35:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>2627</o:Words>
+  <o:Characters>14188</o:Characters>
+  <o:Lines>118</o:Lines>
+  <o:Paragraphs>33</o:Paragraphs>
+  <o:CharactersWithSpaces>16782</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -32,9 +32,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=themeData
-href="68099000%20impostos%20federais_arquivos/themedata.thmx">
+href="72166110%20impostos%20federais_arquivos/themedata.thmx">
 <link rel=colorSchemeMapping
-href="68099000%20impostos%20federais_arquivos/colorschememapping.xml">
+href="72166110%20impostos%20federais_arquivos/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
@@ -53,6 +53,7 @@ href="68099000%20impostos%20federais_arquivos/colorschememapping.xml">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -696,13 +697,6 @@ th
 	mso-font-pitch:variable;
 	mso-font-signature:-536858881 -1073711037 9 0 511 0;}
 @font-face
-	{font-family:Wingdings;
-	panose-1:5 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:2;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:0 268435456 0 0 -2147483648 0;}
-@font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
 	mso-font-charset:0;
@@ -823,6 +817,8 @@ span.Ttulo4Char
 	font-style:italic;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -835,6 +831,8 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	mso-fareast-theme-font:minor-fareast;}
 p.active, li.active, div.active
 	{mso-style-name:active;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -848,6 +846,8 @@ p.active, li.active, div.active
 	mso-fareast-theme-font:minor-fareast;}
 p.hidden-print, li.hidden-print, div.hidden-print
 	{mso-style-name:hidden-print;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -863,6 +863,8 @@ p.hidden-print, li.hidden-print, div.hidden-print
 	mso-hide:all;}
 p.alert, li.alert, div.alert
 	{mso-style-name:alert;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin-top:7.5pt;
 	margin-right:3.75pt;
@@ -879,6 +881,8 @@ p.alert, li.alert, div.alert
 	mso-fareast-theme-font:minor-fareast;}
 p.notalw, li.notalw, div.notalw
 	{mso-style-name:nota_lw;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -894,6 +898,8 @@ p.notalw, li.notalw, div.notalw
 	font-style:italic;}
 p.text-center, li.text-center, div.text-center
 	{mso-style-name:text-center;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -907,6 +913,8 @@ p.text-center, li.text-center, div.text-center
 	mso-fareast-theme-font:minor-fareast;}
 p.print-header, li.print-header, div.print-header
 	{mso-style-name:print-header;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -923,6 +931,8 @@ p.print-header, li.print-header, div.print-header
 	mso-fareast-theme-font:minor-fareast;}
 p.print-logo-left, li.print-logo-left, div.print-logo-left
 	{mso-style-name:print-logo-left;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -935,6 +945,8 @@ p.print-logo-left, li.print-logo-left, div.print-logo-left
 	mso-fareast-theme-font:minor-fareast;}
 p.print-logo-right, li.print-logo-right, div.print-logo-right
 	{mso-style-name:print-logo-right;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin-top:7.5pt;
 	margin-right:0cm;
@@ -947,6 +959,8 @@ p.print-logo-right, li.print-logo-right, div.print-logo-right
 	mso-fareast-theme-font:minor-fareast;}
 p.print-footer, li.print-footer, div.print-footer
 	{mso-style-name:print-footer;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -964,6 +978,8 @@ p.print-footer, li.print-footer, div.print-footer
 	color:#888888;}
 p.topico-texto-box, li.topico-texto-box, div.topico-texto-box
 	{mso-style-name:topico-texto-box;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -988,87 +1004,6 @@ p.topico-texto-box, li.topico-texto-box, div.topico-texto-box
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
- /* List Definitions */
- @list l0
-	{mso-list-id:2071614331;
-	mso-list-template-ids:-1680565872;}
-@list l0:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l0:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l0:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-ol
-	{margin-bottom:0cm;}
-ul
-	{margin-bottom:0cm;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -1110,7 +1045,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <h4 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
 style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman";
-display:none;mso-hide:all'>NCM Selecionado: 6809.90.00<o:p></o:p></span></h4>
+display:none;mso-hide:all'>NCM Selecionado: 7216.61.10<o:p></o:p></span></h4>
 
 </div>
 
@@ -1133,7 +1068,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1161,7 +1096,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>6809.90.00</span></strong><span
+  mso-fareast-font-family:"Times New Roman"'>7216.61.10</span></strong><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
   "Times New Roman"'> <o:p></o:p></span></p>
   </td>
@@ -1171,7 +1106,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>- Outras obras <o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>De altura inferior a 80 mm <o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1179,7 +1114,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>5,00% <o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>0,00% <o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1208,74 +1143,526 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   Incidência do Imposto sobre Produtos Industrializados - TIPI - Decreto nº
   8.950 de 30/12/2016</span></strong><span style='font-size:8.5pt;font-family:
   "Helvetica",sans-serif'><br>
-  &nbsp;68.09 – Obras de gesso ou de composições à base de gesso.<br>
-  6809.90.00 – - Outras obras<br>
+  &nbsp;72.16 – Perfis de ferro ou aço não ligado.<br>
+  7216.6 – - Perfis simplesmente obtidos ou completamente acabados a frio:<br>
+  7216.61 – -- Obtidos a partir de produtos laminados planos<br>
+  7216.61.10 – De altura inferior a 80 mm<br>
   <br>
   <strong><span style='font-family:"Helvetica",sans-serif'>Capítulo:</span></strong>
-  68 - Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes<o:p></o:p></span></p>
+  72 - Ferro fundido, ferro e aço<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Notas.<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>1 - O presente
-  Capítulo não compreende:<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>1 - A presente
+  Seção não compreende:<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Os produtos do
-  Capítulo 25;<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) As cores e
+  tintas preparadas à base de pó ou palhetas, metálicos, bem como as folhas
+  para marcar a ferro (posições 32.07 a 32.10, 32.12, 32.13 ou 32.15);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) O papel e
-  cartão revestidos, impregnados ou recobertos, das posições 48.10 ou 48.11
-  (por exemplo, os recobertos de mica em pó ou de grafita e os betumados ou
-  asfaltados);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) O ferrocério e
+  outras ligas pirofóricas (posição 36.06);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Os tecidos e
-  outros têxteis revestidos, impregnados ou recobertos, dos Capítulos 56 ou 59
-  (por exemplo, os recobertos de mica em pó, de betume ou de asfalto);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Os capacetes e
+  artigos de uso semelhante, metálicos, e suas partes metálicas, das posições
+  65.06 ou 65.07;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) Os artigos do
-  Capítulo 71;<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) As armações de
+  guarda-chuvas e outros artigos, da posição 66.03;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>e) As ferramentas
-  e suas partes, do Capítulo 82;<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>e) Os produtos do
+  Capítulo 71 (por exemplo, ligas de metais preciosos, metais comuns folheados
+  ou chapeados de metais preciosos (plaquê), bijuterias);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>f) As pedras
-  litográficas da posição 84.42;<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>f) Os artigos da
+  Seção XVI (máquinas e aparelhos; material elétrico);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>g) Os isoladores
-  elétricos (posição 85.46) e as peças isolantes da posição 85.47;<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>g) As vias férreas
+  montadas (posição 86.08) e outros artigos da Seção XVII (veículos,
+  embarcações, aeronaves);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>h) As mós para
-  aparelhos dentários (posição 90.18);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>h) Os instrumentos
+  e aparelhos da Seção XVIII, incluindo as molas de relojoaria;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>ij) Os artigos do
-  Capítulo 91 (por exemplo, caixas e semelhantes de artigos de relojoaria);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>ij) Os chumbos de
+  caça (posição 93.06) e outros artigos da Seção XIX (armas e munições);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>k) Os artigos do
-  Capítulo 94 (por exemplo, móveis, aparelhos de iluminação, construções
-  pré-fabricadas);<o:p></o:p></span></p>
+  Capítulo 94 (por exemplo, móveis, suportes para camas (somiês), aparelhos de
+  iluminação, cartazes ou tabuletas luminosos, construções pré-fabricadas);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>l) Os artigos do
   Capítulo 95 (por exemplo, brinquedos, jogos, material de esporte);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>m) Os artigos da
-  posição 96.02, desde que constituídos pelas matérias mencionadas na Nota 2 b)
-  do Capítulo 96, os artigos da posição 96.06 (os botões, por exemplo), da
-  posição 96.09 (os lápis de ardósia, por exemplo), da posição 96.10 (as
-  ardósias para escrita e desenho, por exemplo) ou da posição 96.20 (monopés,
-  bipés, tripés e artigos semelhantes);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>m) As peneiras
+  manuais, botões, canetas, lapiseiras, aparos ou penas de canetas, monopés,
+  bipés, tripés e artigos semelhantes e outros artigos do Capítulo 96 (obras
+  diversas);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>n) Os artigos do
   Capítulo 97 (objetos de arte, por exemplo).<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>2 - Na acepção da
-  posição 68.02, a expressão &quot;pedras de cantaria ou de construção
-  trabalhadas&quot; aplica-se não só às pedras incluídas nas posições 25.15 ou
-  25.16, mas também a todas as outras pedras naturais (por exemplo, quartzitas,
-  sílex, dolomita, esteatita) trabalhadas do mesmo modo, exceto a ardósia.<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>2 - Na
+  Nomenclatura, consideram-se &quot;partes de uso geral&quot;:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Os artigos das
+  posições 73.07, 73.12, 73.15, 73.17 ou 73.18, bem como os artigos semelhantes
+  de outros metais comuns;<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) As molas e
+  folhas de molas, de metais comuns, exceto molas de relojoaria (posição
+  91.14);<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Os artigos das
+  posições 83.01, 83.02, 83.08 ou 83.10, bem como as molduras e espelhos, de
+  metais comuns, da posição 83.06.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Nos Capítulos 73 a
+  76 e 78 a 82 (exceto a posição 73.15), a referência às partes não compreende
+  as partes de uso geral acima definidos.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Ressalvadas as
+  disposições do parágrafo precedente e da Nota 1 do Capítulo 83, as obras dos
+  Capítulos 82 ou 83 estão excluídas dos Capítulos 72 a 76 e 78 a 81.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>3 - Na
+  Nomenclatura, consideram-se &quot;metais comuns&quot;: ferro fundido, ferro e
+  aço, cobre, níquel, alumínio, chumbo, zinco, estanho, tungstênio (volfrâmio),
+  molibdênio, tântalo, magnésio, cobalto, bismuto, cádmio, titânio, zircônio,
+  antimônio, manganês, berílio, cromo, germânio, vanádio, gálio, háfnio
+  (céltio), índio, nióbio (colômbio), rênio e o tálio.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>4 - Na
+  Nomenclatura, o termo &quot;cermets&quot; significa um produto que contenha
+  uma combinação heterogênea microscópica de um composto metálico e de um
+  composto cerâmico. Este termo inclui igualmente os metais duros (carbonetos
+  metálicos sinterizados) que são carbonetos metálicos sinterizados com um
+  metal.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>5 - Regra das
+  ligas (excluindo as ferro-ligas e as ligas-mãe, definidas nos Capítulos 72 e
+  74):<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) As ligas de
+  metais comuns classificam-se como o metal que predomine em peso sobre cada um
+  dos outros componentes;<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) As ligas de
+  metais comuns da presente Seção com elementos nela não incluídos,
+  classificam-se como ligas de metais comuns da presente Seção, desde que o
+  peso total desses metais seja igual ou superior ao dos outros elementos;<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) As misturas
+  sinterizadas de pós metálicos, as misturas heterogêneas íntimas obtidas por
+  fusão (exceto cermets) e os compostos intermetálicos seguem o regime das
+  ligas.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>6 - Salvo
+  disposições em contrário, qualquer referência na Nomenclatura a um metal
+  comum compreende igualmente as ligas classificadas como esse metal por força
+  da Nota 5 precedente.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>7 - Regra dos
+  artigos compostos:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Salvo disposições
+  em contrário resultantes dos textos das posições, as obras de metais comuns
+  ou como tais consideradas, constituídas de dois ou mais metais comuns,
+  classificam-se na posição das obras correspondentes do metal predominante em
+  peso sobre cada um dos outros metais.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Para aplicação
+  desta regra, consideram-se:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) O ferro
+  fundido, o ferro e o aço, como sendo um único metal;<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) As ligas como
+  sendo constituídas, na totalidade do seu peso, pelo metal definido por
+  aplicação da Nota 5 precedente;<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Um cermet da
+  posição 81.13, como constituindo um só metal comum.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>8 - Na presente
+  Seção consideram-se:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Desperdícios e
+  resíduos, e sucata<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os desperdícios e
+  resíduos metálicos provenientes da fabricação ou do trabalho mecânico de
+  metais, bem como as obras metálicas definitivamente inservíveis como tais
+  (sucata), em consequência de quebra, corte, desgaste ou outros motivos.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) Pós<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos que
+  passem através de uma peneira com abertura de malha de 1 mm, em proporção
+  igual ou superior a 90 %, em peso.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>CAPÍTULO 72 FERRO
+  FUNDIDO, FERRO E AÇO<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Notas.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>1 - Neste Capítulo
+  e, no que se refere às alíneas d), e) e f) da presente Nota, na Nomenclatura,
+  consideram-se:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Ferro fundido
+  bruto<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>As ligas de
+  ferro-carbono praticamente insuscetíveis de deformação plástica, que
+  contenham, em peso, mais de 2 % de carbono e podendo ainda conter, em peso,
+  um ou mais elementos nas seguintes proporções:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 10 % ou menos de
+  cromo<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 6 % ou menos de
+  manganês<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 3 % ou menos de
+  fósforo<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 8 % ou menos de
+  silício<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 10 % ou menos,
+  no total, de outros elementos.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) Ferro spiegel
+  (especular)<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>As ligas de ferro-carbono
+  que contenham, em peso, mais de 6 % e não mais de 30 % de manganês e que
+  satisfaçam, relativamente às outras características, à definição da Nota 1
+  a).<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Ferro-ligas<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>As ligas em
+  lingotes, linguados, massas ou formas primárias semelhantes, em formas
+  obtidas por vazamento contínuo, em granalha ou em pó, mesmo aglomerados,
+  normalmente utilizadas, quer como produtos de adição na preparação de outras
+  ligas, quer como desoxidantes, dessulfurantes ou em aplicações semelhantes em
+  siderurgia e geralmente insuscetíveis de deformação plástica, que contenham,
+  em peso, 4 % ou mais de ferro e um ou mais elementos nas proporções
+  seguintes:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 10 % de
+  cromo<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 30 % de
+  manganês<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 3 % de
+  fósforo<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 8 % de
+  silício<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 10 %, no
+  total, de outros elementos, exceto carbono, não podendo, todavia, a
+  percentagem de cobre exceder 10 %.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) Aço<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>As matérias
+  ferrosas, excluindo as da posição 72.03 que, à exceção de certos tipos de
+  aços produzidos sob a forma de peças moldadas, sejam suscetíveis de
+  deformação plástica e contenham, em peso, 2 % ou menos de carbono. Todavia,
+  os aços ao cromo podem apresentar maior proporção de carbono.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>e) Aços
+  inoxidáveis<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>As ligas de aço
+  que contenham, em peso, 1,2 % ou menos de carbono e 10,5 % ou mais de cromo,
+  mesmo com outros elementos.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>f) Outras ligas de
+  aço<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os aços que não
+  satisfaçam a definição de aços inoxidáveis e que contenham, em peso, um ou
+  mais dos elementos a seguir discriminados nas proporções indicadas:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,3 % ou mais de
+  alumínio<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,0008 % ou mais
+  de boro<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,3 % ou mais de
+  cromo<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,3 % ou mais de
+  cobalto<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,4 % ou mais de
+  cobre<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,4 % ou mais de
+  chumbo<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 1,65 % ou mais
+  de manganês<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,08 % ou mais
+  de molibdênio<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,3 % ou mais de
+  níquel<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,06 % ou mais
+  de nióbio<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,6 % ou mais de
+  silício<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,05 % ou mais
+  de titânio<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,3 % ou mais de
+  tungstênio (volfrâmio)<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,1 % ou mais de
+  vanádio<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,05 % ou mais
+  de zircônio<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,1 % ou mais de
+  outros elementos (exceto enxofre, fósforo, carbono e nitrogênio (azoto)),
+  individualmente considerados.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>g) Desperdícios e
+  resíduos em lingotes, de ferro ou aço<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos
+  grosseiramente obtidos por vazamento sob a forma de lingotes sem rebarbas, ou
+  de linguados, que apresentem evidentes imperfeições à superfície e que não
+  satisfaçam, relativamente à sua composição química, às definições de ferro
+  fundido bruto, ferro spiegel (especular) ou ferro-ligas.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>h) Granalhas<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos que
+  passem através de uma peneira com uma abertura de malha de 1 mm, em proporção
+  inferior a 90 %, em peso, e através de uma peneira com uma abertura de malha
+  de 5 mm, em proporção igual ou superior a 90 %, em peso.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>ij) Produtos
+  semimanufaturados<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos
+  maciços obtidos por vazamento contínuo, mesmo submetidos a uma laminagem
+  primária a quente; e os outros produtos maciços simplesmente submetidos a
+  laminagem primária a quente ou simplesmente desbastados à forja ou a martelo,
+  incluindo os esboços de perfis.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Estes produtos não
+  se apresentam em rolos.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>k) Produtos
+  laminados planos<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos
+  laminados, maciços, de seção transversal retangular, que não satisfaçam a
+  definição da Nota 1 ij) anterior:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- em rolos de
+  espiras sobrepostas, ou<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- não enrolados,
+  de uma largura igual a pelo menos dez vezes a espessura, se esta for inferior
+  a 4,75 mm, ou de uma largura superior a 150 mm, se a espessura for igual ou
+  superior a 4,75 mm sem, no entanto, exceder a metade da largura.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos que
+  apresentem motivos em relevo provenientes diretamente da laminagem (por
+  exemplo, ranhuras, estrias, gofragens, lágrimas, botões, losangos) e os que
+  tenham sido perfurados, ondulados, polidos, classificam-se como produtos
+  laminados planos, desde que aquelas operações não lhes confiram as
+  características de artigos ou obras incluídos noutras posições.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos
+  laminados planos, de quaisquer formas (excluindo a quadrada ou a retangular)
+  e dimensões, classificam-se como produtos de largura igual ou superior a 600
+  mm, desde que não tenham as características de artigos ou obras incluídos
+  noutras posições.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>l) Fio-máquina<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos
+  laminados a quente, apresentados em rolos irregulares, maciços, com seção
+  transversal em forma de círculo, de segmento circular, oval, de quadrado,
+  retângulo, triângulo ou de outros polígonos convexos (incluindo os
+  &quot;círculos achatados&quot; e os &quot;retângulos modificados&quot;, nos
+  quais dois lados opostos tenham a forma de arco de círculo convexo, sendo os
+  outros dois retilíneos, iguais e paralelos). Estes produtos podem
+  apresentar-se dentados, com nervuras, sulcos (entalhes) ou com relevos,
+  produzidos durante a laminagem (vergalhões para concreto (betão*)).<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>m) Barras<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos que
+  não satisfaçam a qualquer das definições constantes das alíneas ij), k) ou
+  l), acima, nem à definição de fios e cuja seção transversal, maciça e
+  constante em todo o comprimento, tenha a forma de círculo, de segmento
+  circular, oval, de quadrado, retângulo, triângulo ou de outros polígonos
+  convexos (incluindo os &quot;círculos achatados&quot; e os &quot;retângulos
+  modificados&quot;, nos quais dois lados opostos tenham a forma de arco de
+  círculo convexo, sendo os outros dois retilíneos, iguais e paralelos). Estes
+  produtos podem:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- apresentar-se
+  dentados, com nervuras, sulcos (entalhes) ou com relevos, produzidos durante
+  a laminagem (vergalhões para concreto (betão*)),<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- ter sido
+  submetidos a torção após a laminagem.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>n) Perfis<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos de
+  seção transversal maciça e constante em todo o comprimento, que não
+  satisfaçam a qualquer das definições das alíneas ij), k), l) ou m), acima,
+  nem à definição de fios.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>O Capítulo 72 não
+  abrange os produtos das posições 73.01 ou 73.02.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>o) Fios<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os produtos
+  obtidos a frio, apresentados em rolos, com qualquer forma de seção
+  transversal maciça e constante em todo o comprimento, que não satisfaçam à
+  definição de produtos laminados planos.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>p) Barras ocas
+  para perfuração<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>As barras ocas de qualquer
+  seção, próprias para fabricação de ferramentas de perfuração, cuja maior
+  dimensão exterior da seção transversal seja superior a 15 mm, mas não
+  superior a 52 mm e, pelo menos, o dobro da maior dimensão interior (parte
+  oca). As barras ocas de ferro ou aço que não satisfaçam a esta definição,
+  classificam-se na posição 73.04.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>2 - Os metais
+  ferrosos folheados ou chapeados de metal ferroso de composição diferente
+  seguem o regime do metal ferroso predominante em peso.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>3 - Os produtos de
+  ferro ou aço obtidos por eletrólise, vazamento sob pressão ou por
+  sinterização, são classificados, segundo a sua forma, composição e aspecto,
+  nas posições relativas aos produtos semelhantes laminados a quente.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Notas de
+  subposições.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>1 - Neste Capítulo
+  consideram-se:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Ligas de ferro
+  fundido bruto<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>O ferro fundido
+  bruto, que contenha um ou mais dos elementos seguintes nas proporções, em
+  peso, abaixo indicadas:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 0,2 % de
+  cromo<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 0,3 % de
+  cobre<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 0,3 % de
+  níquel<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 0,1 % de
+  qualquer dos seguintes elementos: alumínio, molibdênio, titânio, tungstênio
+  (volfrâmio), vanádio.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) Aços não
+  ligados para tornear<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os aços não
+  ligados que contenham, em peso, um ou mais dos seguintes elementos nas
+  proporções indicadas:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,08 % ou mais
+  de enxofre<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- 0,1 % ou mais de
+  chumbo<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 0,05 %
+  de selênio<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 0,01 %
+  de telúrio<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- mais de 0,05 %
+  de bismuto.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Aços ao
+  silício, denominados &quot;magnéticos&quot;<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os aços que
+  contenham, em peso, 0,6 % no mínimo e 6 % no máximo, de silício e 0,08 % no
+  máximo, de carbono e podendo conter, em peso, 1 % ou menos de alumínio, com
+  exclusão de qualquer outro elemento em proporção tal que lhes confira as
+  características de outras ligas de aço.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) Aços de corte
+  rápido<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>As ligas de aço
+  que contenham, mesmo com outros elementos, pelo menos dois dos três elementos
+  seguintes: molibdênio, tungstênio (volfrâmio) e vanádio, com um teor total,
+  em peso, igual ou superior a 7 % para o conjunto desses elementos, 0,6 % ou
+  mais de carbono e 3 % a 6 % de cromo.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>e) Aço
+  silício-manganês<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>As ligas de aço que
+  contenham em peso:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- não mais de 0,7
+  % de carbono,<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- de 0,5 % até 1,9
+  %, ambos inclusive, de manganês, e<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- de 0,6 % até 2,3
+  %, ambos inclusive, de silício, com exceção de qualquer outro elemento, em
+  proporção tal que lhe confira as características de outras ligas de aço.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>2 - A
+  classificação das ferro-ligas nas subposições da posição 72.02 obedece à
+  seguinte regra:<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Uma ferro-liga
+  considera-se binária e classifica-se na subposição apropriada (se existir) quando
+  só um dos elementos da liga apresente um teor superior à percentagem mínima
+  estabelecida na Nota 1 c) do presente Capítulo. Por analogia, considera-se
+  ternária ou quaternária quando dois ou três dos elementos da liga apresentem
+  teores superiores às percentagens mínimas indicadas na referida Nota.<o:p></o:p></span></p>
+  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Para aplicação
+  desta regra, os elementos não especificamente citados na Nota 1 c) do
+  presente Capítulo e abrangidos pela expressão &quot;outros elementos&quot;
+  devem, contudo, apresentar individualmente um teor superior a 10 %, em peso.<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
   8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
   <strong><span style='font-family:"Helvetica",sans-serif'>Seção:</span></strong>
-  13 - OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS
-  SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS<o:p></o:p></span></p>
+  15 - METAIS COMUNS E SUAS OBRAS<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -1301,7 +1688,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1369,8 +1756,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Quando não houver outras hipótes
-  de enquadramento para Regime não Cumulativo<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>Quando não houver outras hipótes de
+  enquadramento para Regime não Cumulativo<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1432,7 +1819,7 @@ Consultar desoneração por CNAE <o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1492,7 +1879,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td colspan=5 style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1565,7 +1952,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1581,7 +1968,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>30,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1589,7 +1976,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>20,81%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
@@ -1605,7 +1992,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1621,7 +2008,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1629,7 +2016,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,90%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
@@ -1645,7 +2032,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1661,7 +2048,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1669,7 +2056,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,66%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
@@ -1685,7 +2072,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1701,7 +2088,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1709,7 +2096,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,66%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
@@ -1725,7 +2112,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1741,7 +2128,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1749,7 +2136,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,02%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
@@ -1765,7 +2152,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,31%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1773,7 +2160,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>28,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1781,7 +2168,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>44,31%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1789,7 +2176,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>22,75%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,76%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8'>
@@ -1805,7 +2192,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1813,7 +2200,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>12,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1821,7 +2208,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>25,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1829,7 +2216,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,66%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9'>
@@ -1845,7 +2232,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1853,7 +2240,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>12,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1861,7 +2248,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>25,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1869,7 +2256,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,66%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10'>
@@ -1885,7 +2272,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1901,7 +2288,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>30,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1909,7 +2296,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,66%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11'>
@@ -1925,7 +2312,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1933,7 +2320,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>12,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1941,7 +2328,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1949,7 +2336,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>19,73%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12'>
@@ -1965,7 +2352,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,33%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1981,7 +2368,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,33%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>30,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1989,7 +2376,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>19,69%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13'>
@@ -2005,7 +2392,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,67%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2021,7 +2408,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,67%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>30,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2029,7 +2416,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>21,12%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>22,09%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14'>
@@ -2045,7 +2432,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2053,7 +2440,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2061,7 +2448,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2069,7 +2456,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,34%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15'>
@@ -2085,7 +2472,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2101,7 +2488,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>30,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2109,7 +2496,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>19,12%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16'>
@@ -2125,7 +2512,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2141,7 +2528,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2149,7 +2536,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,66%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:17'>
@@ -2165,7 +2552,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2181,7 +2568,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2189,7 +2576,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>20,81%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18'>
@@ -2205,327 +2592,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>7,00%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>21,79%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:19'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Piauí<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,07%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>33,07%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>19,60%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:20'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Rio de Janeiro<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,00%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,79%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:21'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Rio Grande do Norte<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,37%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>33,37%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,36%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:22'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Rio Grande do Sul<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,37%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>33,37%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,36%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:23'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Rondônia<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,55%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>17,50%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,05%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>23,36%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:24'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Roraima<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Santa Catarina<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,78%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>33,78%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>23,97%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:26'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>São Paulo<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,07%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2541,7 +2608,127 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>27,07%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>25,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>21,45%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>Piauí<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>19,10%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>Rio de Janeiro<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>20,00%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>33,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>21,45%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>Rio Grande do Norte<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2550,6 +2737,206 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
   mso-fareast-font-family:"Times New Roman"'>19,59%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>Rio Grande do Sul<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>21,66%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>Rondônia<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>17,50%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>30,95%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>21,79%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>Roraima<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>30,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>22,95%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>Santa Catarina<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>30,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>21,66%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>São Paulo<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>18,13%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:27'>
@@ -2565,7 +2952,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2581,7 +2968,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2589,7 +2976,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,66%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:28;mso-yfti-lastrow:yes'>
@@ -2605,7 +2992,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>13,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2621,7 +3008,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,45%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2629,7 +3016,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,64%<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -2647,103 +3034,15 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 Interna</span></strong><span style='font-family:"Helvetica",sans-serif;
 mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
 
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Selecione o estado
-para consultar a incidência de ST para a NCM pesquisada:<o:p></o:p></span></p>
-
-<ul style='margin-top:0cm' type=disc id="abas_estados">
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Mato Grosso <sup>(1)</sup><o:p></o:p></span></li>
-</ul>
+<div style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
+padding:8.0pt 8.0pt 8.0pt 8.0pt;margin-left:3.75pt;margin-top:7.5pt;margin-right:
+3.75pt;margin-bottom:7.5pt' id="table_stinterna">
 
 <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Estados não listados
-aqui não possuem ST com base na NCM selecionada ou o Estado não menciona a NCM
-em sua legislação.<o:p></o:p></span></p>
-
-<div>
-
-<div id="Mato_Grosso">
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Mato Grosso</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>68.09<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção, Acabamento, Bricolagem ou Adorno <o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Obras
-  de gesso ou de composições à base de gesso .&nbsp; Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
+8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Não
+encontrada incidencia de ST para a NCM pesquisada. <o:p></o:p></span></p>
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
@@ -2762,8 +3061,8 @@ style='mso-special-character:line-break'>
 <![endif]><o:p></o:p></span></p>
 
 <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Não há nenhum
-protocolo ou convênio firmado entre os Estados para a NCM selecionada. <o:p></o:p></span></p>
+style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Não há nenhum protocolo
+ou convênio firmado entre os Estados para a NCM selecionada. <o:p></o:p></span></p>
 
 <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
 style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Para mais detalhes

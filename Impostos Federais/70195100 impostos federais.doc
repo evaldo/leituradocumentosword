@@ -9,22 +9,22 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="70193900%20impostos%20federais_arquivos/filelist.xml">
+<link rel=File-List href="70195100%20impostos%20federais_arquivos/filelist.xml">
 <title>Sistemas - Impostos e Alíquotas</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Evaldo de Oliveira da Silva</o:Author>
   <o:LastAuthor>Evaldo de Oliveira da Silva</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2017-11-30T02:28:00Z</o:Created>
-  <o:LastSaved>2017-11-30T02:28:00Z</o:LastSaved>
+  <o:LastSaved>2017-12-01T12:35:00Z</o:LastSaved>
   <o:Pages>3</o:Pages>
-  <o:Words>1882</o:Words>
-  <o:Characters>10166</o:Characters>
+  <o:Words>1879</o:Words>
+  <o:Characters>10149</o:Characters>
   <o:Lines>84</o:Lines>
   <o:Paragraphs>24</o:Paragraphs>
-  <o:CharactersWithSpaces>12024</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>12004</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -32,9 +32,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=themeData
-href="70193900%20impostos%20federais_arquivos/themedata.thmx">
+href="70195100%20impostos%20federais_arquivos/themedata.thmx">
 <link rel=colorSchemeMapping
-href="70193900%20impostos%20federais_arquivos/colorschememapping.xml">
+href="70195100%20impostos%20federais_arquivos/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
@@ -53,6 +53,7 @@ href="70193900%20impostos%20federais_arquivos/colorschememapping.xml">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -823,6 +824,8 @@ span.Ttulo4Char
 	font-style:italic;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -835,6 +838,8 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	mso-fareast-theme-font:minor-fareast;}
 p.active, li.active, div.active
 	{mso-style-name:active;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -848,6 +853,8 @@ p.active, li.active, div.active
 	mso-fareast-theme-font:minor-fareast;}
 p.hidden-print, li.hidden-print, div.hidden-print
 	{mso-style-name:hidden-print;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -863,6 +870,8 @@ p.hidden-print, li.hidden-print, div.hidden-print
 	mso-hide:all;}
 p.alert, li.alert, div.alert
 	{mso-style-name:alert;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin-top:7.5pt;
 	margin-right:3.75pt;
@@ -879,6 +888,8 @@ p.alert, li.alert, div.alert
 	mso-fareast-theme-font:minor-fareast;}
 p.notalw, li.notalw, div.notalw
 	{mso-style-name:nota_lw;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -894,6 +905,8 @@ p.notalw, li.notalw, div.notalw
 	font-style:italic;}
 p.text-center, li.text-center, div.text-center
 	{mso-style-name:text-center;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -907,6 +920,8 @@ p.text-center, li.text-center, div.text-center
 	mso-fareast-theme-font:minor-fareast;}
 p.print-header, li.print-header, div.print-header
 	{mso-style-name:print-header;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -923,6 +938,8 @@ p.print-header, li.print-header, div.print-header
 	mso-fareast-theme-font:minor-fareast;}
 p.print-logo-left, li.print-logo-left, div.print-logo-left
 	{mso-style-name:print-logo-left;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -935,6 +952,8 @@ p.print-logo-left, li.print-logo-left, div.print-logo-left
 	mso-fareast-theme-font:minor-fareast;}
 p.print-logo-right, li.print-logo-right, div.print-logo-right
 	{mso-style-name:print-logo-right;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin-top:7.5pt;
 	margin-right:0cm;
@@ -947,6 +966,8 @@ p.print-logo-right, li.print-logo-right, div.print-logo-right
 	mso-fareast-theme-font:minor-fareast;}
 p.print-footer, li.print-footer, div.print-footer
 	{mso-style-name:print-footer;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -964,6 +985,8 @@ p.print-footer, li.print-footer, div.print-footer
 	color:#888888;}
 p.topico-texto-box, li.topico-texto-box, div.topico-texto-box
 	{mso-style-name:topico-texto-box;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -990,8 +1013,8 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:1112475180;
-	mso-list-template-ids:-724521650;}
+	{mso-list-id:1196776474;
+	mso-list-template-ids:383531450;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1065,6 +1088,81 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
+@list l1
+	{mso-list-id:1878009634;
+	mso-list-template-ids:-26469794;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 ol
 	{margin-bottom:0cm;}
 ul
@@ -1110,7 +1208,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <h4 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
 style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman";
-display:none;mso-hide:all'>NCM Selecionado: 7019.39.00<o:p></o:p></span></h4>
+display:none;mso-hide:all'>NCM Selecionado: 7019.51.00<o:p></o:p></span></h4>
 
 </div>
 
@@ -1133,7 +1231,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1161,7 +1259,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>7019.39.00</span></strong><span
+  mso-fareast-font-family:"Times New Roman"'>7019.51.00</span></strong><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
   "Times New Roman"'> <o:p></o:p></span></p>
   </td>
@@ -1171,7 +1269,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>-- Outros <o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>-- De largura não superior a 30 cm
+  <o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1210,9 +1309,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   "Helvetica",sans-serif'><br>
   &nbsp;70.19 – Fibras de vidro (incluindo a lã de vidro) e suas obras (por
   exemplo, fios, tecidos).<br>
-  7019.3 – - Véus, mantas, esteiras (mats), colchões, painéis e produtos
-  semelhantes, não tecidos:<br>
-  7019.39.00 – -- Outros<br>
+  7019.5 – - Outros tecidos:<br>
+  7019.51.00 – -- De largura não superior a 30 cm<br>
   <br>
   <strong><span style='font-family:"Helvetica",sans-serif'>Capítulo:</span></strong>
   70 - Vidro e suas obras<o:p></o:p></span></p>
@@ -1301,8 +1399,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
   8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
   <strong><span style='font-family:"Helvetica",sans-serif'>Seção:</span></strong>
-  13 - OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES;
-  PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS<o:p></o:p></span></p>
+  13 - OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS
+  SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -1328,7 +1426,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1459,7 +1557,7 @@ Consultar desoneração por CNAE <o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1571,8 +1669,8 @@ Consultar desoneração por CNAE <o:p></o:p></span></p>
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>OBSERVAÇÃO 2:</span></strong><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'><o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>O enquadramento
-  das empresas na desoneração da folha de pagamento poderá ocorrer:<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>O enquadramento das
+  empresas na desoneração da folha de pagamento poderá ocorrer:<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- pela
   classificação fiscal dos produtos (NCM);<o:p></o:p></span></p>
@@ -1583,11 +1681,11 @@ Consultar desoneração por CNAE <o:p></o:p></span></p>
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- pela descrição
   do serviço.<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os Sistemas
-  LegisWeb oferecem busca por NCM e por CNAE, onde poderão ser localizados os
-  produtos ou serviços enquadrados na desoneração da folha de pagamento de
-  acordo com a NCM, no caso das indústrias, ou o CNAE da atividade para
-  empresas de outros segmentos.<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Os Sistemas LegisWeb
+  oferecem busca por NCM e por CNAE, onde poderão ser localizados os produtos
+  ou serviços enquadrados na desoneração da folha de pagamento de acordo com a
+  NCM, no caso das indústrias, ou o CNAE da atividade para empresas de outros
+  segmentos.<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Contudo, há uma
   relação de setores econômicos incluídos na desoneração da folha de pagamento
@@ -1685,9 +1783,8 @@ Consultar desoneração por CNAE <o:p></o:p></span></p>
     <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
     solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
     <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-    style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Empresas de
-    manutenção e reparação de aeronaves, motores, componentes e equipamentos
-    correlatos<o:p></o:p></span></p>
+    style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Empresas de manutenção
+    e reparação de aeronaves, motores, componentes e equipamentos correlatos<o:p></o:p></span></p>
     </td>
     <td valign=top style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
     border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1910,9 +2007,9 @@ Consultar desoneração por CNAE <o:p></o:p></span></p>
   de recolhimento:<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- para obras
-  matriculadas no Cadastro Específico do INSS (CEI) até o dia 31 de março de
-  2013, o recolhimento da contribuição previdenciária será de 20% sobre a folha
-  de pagamento, até o seu término;<o:p></o:p></span></p>
+  matriculadas no Cadastro Específico do INSS (CEI) até o dia 31 de março de 2013,
+  o recolhimento da contribuição previdenciária será de 20% sobre a folha de
+  pagamento, até o seu término;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>- para obras
   matriculadas no CEI no período compreendido entre 1º de abril de 2013 e 31 de
@@ -1965,7 +2062,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td colspan=5 style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -3129,15 +3226,15 @@ para consultar a incidência de ST para a NCM pesquisada:<o:p></o:p></span></p>
 
 <ul style='margin-top:0cm' type=disc id="abas_estados">
  <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
+     mso-list:l0 level1 lfo3;display:none;tab-stops:list 36.0pt'><span
      style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
      "Times New Roman";display:none;mso-hide:all'>Mato Grosso <sup>(1)</sup><o:p></o:p></span></li>
  <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
+     mso-list:l0 level1 lfo3;display:none;tab-stops:list 36.0pt'><span
      style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
      "Times New Roman";display:none;mso-hide:all'>Paraná <sup>(1)</sup><o:p></o:p></span></li>
  <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
+     mso-list:l0 level1 lfo3;display:none;tab-stops:list 36.0pt'><span
      style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
      "Times New Roman";display:none;mso-hide:all'>Santa Catarina <sup>(1)</sup><o:p></o:p></span></li>
 </ul>
@@ -3167,7 +3264,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -3236,7 +3333,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -3305,7 +3402,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>

@@ -9,22 +9,22 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="38160019%20impostos%20federais_arquivos/filelist.xml">
+<link rel=File-List href="68099000%20impostos%20federais_arquivos/filelist.xml">
 <title>Sistemas - Impostos e Alíquotas</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Evaldo de Oliveira da Silva</o:Author>
   <o:LastAuthor>Evaldo de Oliveira da Silva</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2017-11-30T02:28:00Z</o:Created>
-  <o:LastSaved>2017-11-30T02:28:00Z</o:LastSaved>
-  <o:Pages>3</o:Pages>
-  <o:Words>2355</o:Words>
-  <o:Characters>12722</o:Characters>
-  <o:Lines>106</o:Lines>
-  <o:Paragraphs>30</o:Paragraphs>
-  <o:CharactersWithSpaces>15047</o:CharactersWithSpaces>
+  <o:LastSaved>2017-12-01T12:35:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>736</o:Words>
+  <o:Characters>3979</o:Characters>
+  <o:Lines>33</o:Lines>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:CharactersWithSpaces>4706</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -32,9 +32,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=themeData
-href="38160019%20impostos%20federais_arquivos/themedata.thmx">
+href="68099000%20impostos%20federais_arquivos/themedata.thmx">
 <link rel=colorSchemeMapping
-href="38160019%20impostos%20federais_arquivos/colorschememapping.xml">
+href="68099000%20impostos%20federais_arquivos/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
@@ -53,6 +53,7 @@ href="38160019%20impostos%20federais_arquivos/colorschememapping.xml">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -823,6 +824,8 @@ span.Ttulo4Char
 	font-style:italic;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -835,6 +838,8 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	mso-fareast-theme-font:minor-fareast;}
 p.active, li.active, div.active
 	{mso-style-name:active;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -848,6 +853,8 @@ p.active, li.active, div.active
 	mso-fareast-theme-font:minor-fareast;}
 p.hidden-print, li.hidden-print, div.hidden-print
 	{mso-style-name:hidden-print;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -863,6 +870,8 @@ p.hidden-print, li.hidden-print, div.hidden-print
 	mso-hide:all;}
 p.alert, li.alert, div.alert
 	{mso-style-name:alert;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin-top:7.5pt;
 	margin-right:3.75pt;
@@ -879,6 +888,8 @@ p.alert, li.alert, div.alert
 	mso-fareast-theme-font:minor-fareast;}
 p.notalw, li.notalw, div.notalw
 	{mso-style-name:nota_lw;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -894,6 +905,8 @@ p.notalw, li.notalw, div.notalw
 	font-style:italic;}
 p.text-center, li.text-center, div.text-center
 	{mso-style-name:text-center;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -907,6 +920,8 @@ p.text-center, li.text-center, div.text-center
 	mso-fareast-theme-font:minor-fareast;}
 p.print-header, li.print-header, div.print-header
 	{mso-style-name:print-header;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -923,6 +938,8 @@ p.print-header, li.print-header, div.print-header
 	mso-fareast-theme-font:minor-fareast;}
 p.print-logo-left, li.print-logo-left, div.print-logo-left
 	{mso-style-name:print-logo-left;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -935,6 +952,8 @@ p.print-logo-left, li.print-logo-left, div.print-logo-left
 	mso-fareast-theme-font:minor-fareast;}
 p.print-logo-right, li.print-logo-right, div.print-logo-right
 	{mso-style-name:print-logo-right;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin-top:7.5pt;
 	margin-right:0cm;
@@ -947,6 +966,8 @@ p.print-logo-right, li.print-logo-right, div.print-logo-right
 	mso-fareast-theme-font:minor-fareast;}
 p.print-footer, li.print-footer, div.print-footer
 	{mso-style-name:print-footer;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -964,6 +985,8 @@ p.print-footer, li.print-footer, div.print-footer
 	color:#888888;}
 p.topico-texto-box, li.topico-texto-box, div.topico-texto-box
 	{mso-style-name:topico-texto-box;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -990,8 +1013,8 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:1945309256;
-	mso-list-template-ids:-1310531044;}
+	{mso-list-id:1003166498;
+	mso-list-template-ids:1181638456;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1002,6 +1025,81 @@ div.WordSection1
 	font-family:Symbol;}
 @list l0:level2
 	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:2071614331;
+	mso-list-template-ids:-1680565872;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:72.0pt;
 	mso-level-number-position:left;
@@ -1009,7 +1107,7 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:"Courier New";
 	mso-bidi-font-family:"Times New Roman";}
-@list l0:level3
+@list l1:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:108.0pt;
@@ -1017,7 +1115,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level4
+@list l1:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:144.0pt;
@@ -1025,7 +1123,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level5
+@list l1:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:180.0pt;
@@ -1033,7 +1131,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level6
+@list l1:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:216.0pt;
@@ -1041,7 +1139,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level7
+@list l1:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:252.0pt;
@@ -1049,7 +1147,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level8
+@list l1:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:288.0pt;
@@ -1057,7 +1155,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level9
+@list l1:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:324.0pt;
@@ -1110,7 +1208,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <h4 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
 style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman";
-display:none;mso-hide:all'>NCM Selecionado: 3816.00.19<o:p></o:p></span></h4>
+display:none;mso-hide:all'>NCM Selecionado: 6809.90.00<o:p></o:p></span></h4>
 
 </div>
 
@@ -1133,7 +1231,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1161,7 +1259,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>3816.00.19</span></strong><span
+  mso-fareast-font-family:"Times New Roman"'>6809.90.00</span></strong><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
   "Times New Roman"'> <o:p></o:p></span></p>
   </td>
@@ -1171,7 +1269,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Outros <o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>- Outras obras <o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1208,215 +1306,74 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   Incidência do Imposto sobre Produtos Industrializados - TIPI - Decreto nº
   8.950 de 30/12/2016</span></strong><span style='font-size:8.5pt;font-family:
   "Helvetica",sans-serif'><br>
-  &nbsp;3816.00 – Cimentos, argamassas, concretos (betões*) e composições
-  semelhantes, refratários, exceto os produtos da posição 38.01.<br>
-  3816.00.1 – Cimentos e argamassas<br>
-  3816.00.19 – Outros<br>
+  &nbsp;68.09 – Obras de gesso ou de composições à base de gesso.<br>
+  6809.90.00 – - Outras obras<br>
   <br>
   <strong><span style='font-family:"Helvetica",sans-serif'>Capítulo:</span></strong>
-  38 - Produtos diversos das indústrias químicas<o:p></o:p></span></p>
+  68 - Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Notas.<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
   style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>1 - O presente
   Capítulo não compreende:<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Os produtos de
-  constituição química definida, apresentados isoladamente, exceto os
-  seguintes:<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Os produtos do
+  Capítulo 25;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>1) A grafita
-  artificial (posição 38.01);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) O papel e
+  cartão revestidos, impregnados ou recobertos, das posições 48.10 ou 48.11
+  (por exemplo, os recobertos de mica em pó ou de grafita e os betumados ou
+  asfaltados);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>2) Os inseticidas,
-  rodenticidas, fungicidas, herbicidas, inibidores de germinação e reguladores
-  de crescimento para plantas, desinfetantes e produtos semelhantes,
-  apresentados nas formas ou embalagens previstas na posição 38.08;<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Os tecidos e
+  outros têxteis revestidos, impregnados ou recobertos, dos Capítulos 56 ou 59
+  (por exemplo, os recobertos de mica em pó, de betume ou de asfalto);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>3) Os produtos
-  extintores apresentados como cargas para aparelhos extintores ou em granadas
-  ou bombas, extintoras (posição 38.13);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) Os artigos do
+  Capítulo 71;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>4) Os materiais de
-  referência certificados, especificados na Nota 2 abaixo;<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>e) As ferramentas
+  e suas partes, do Capítulo 82;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>5) Os produtos
-  especificados nas Notas 3 a) ou 3 c) abaixo;<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>f) As pedras
+  litográficas da posição 84.42;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) As misturas de
-  produtos químicos com substâncias alimentícias ou outras possuindo valor
-  nutritivo, do tipo utilizado na preparação de alimentos próprios para
-  alimentação humana (em geral, posição 21.06);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>g) Os isoladores
+  elétricos (posição 85.46) e as peças isolantes da posição 85.47;<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) As escórias,
-  cinzas e resíduos (incluindo as lamas (borras), exceto as lamas de tratamento
-  de esgotos (lamas de depuração*)) que contenham metais, arsênio ou suas
-  misturas e cumpram as condições das Notas 3 a) ou 3 b) do Capítulo 26
-  (posição 26.20);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>h) As mós para
+  aparelhos dentários (posição 90.18);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) Os medicamentos
-  (posições 30.03 ou 30.04);<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>ij) Os artigos do
+  Capítulo 91 (por exemplo, caixas e semelhantes de artigos de relojoaria);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>e) Os
-  catalisadores esgotados do tipo utilizado para a extração de metais comuns ou
-  para fabricação de compostos químicos à base de metais comuns (posição
-  26.20), os catalisadores esgotados do tipo utilizado principalmente para
-  recuperação de metais preciosos (posição 71.12), bem como os catalisadores
-  constituídos por metais ou por ligas metálicas, por exemplo, em pó muito fino
-  ou em tela metálica (Seções XIV ou XV).<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>k) Os artigos do
+  Capítulo 94 (por exemplo, móveis, aparelhos de iluminação, construções
+  pré-fabricadas);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>2 - A) Na acepção
-  da posição 38.22, considera-se &quot;material de referência certificado&quot;
-  o que é acompanhado de um certificado que indique os valores das propriedades
-  certificadas e os métodos utilizados para determinar esses valores, bem como
-  o grau de certeza associado a cada valor e que pode ser utilizado para
-  análise, aferição ou referência.<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>l) Os artigos do
+  Capítulo 95 (por exemplo, brinquedos, jogos, material de esporte);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>B) Com exceção dos
-  produtos dos Capítulos 28 ou 29, para a classificação dos materiais de
-  referência certificados, a posição 38.22 tem prioridade sobre qualquer outra
-  posição da Nomenclatura.<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>m) Os artigos da
+  posição 96.02, desde que constituídos pelas matérias mencionadas na Nota 2 b)
+  do Capítulo 96, os artigos da posição 96.06 (os botões, por exemplo), da
+  posição 96.09 (os lápis de ardósia, por exemplo), da posição 96.10 (as
+  ardósias para escrita e desenho, por exemplo) ou da posição 96.20 (monopés,
+  bipés, tripés e artigos semelhantes);<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>3 - Incluem-se na
-  posição 38.24 e não em qualquer outra posição da Nomenclatura:<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>n) Os artigos do
+  Capítulo 97 (objetos de arte, por exemplo).<o:p></o:p></span></p>
   <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Os cristais
-  cultivados (exceto elementos de óptica) de óxido de magnésio ou de sais
-  halogenados de metais alcalinos ou alcalino-terrosos, de peso unitário igual
-  ou superior a 2,5g;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) Os óleos fúseis
-  (de fusel*); o óleo de Dippel;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Os produtos
-  para apagar tintas de escrever, acondicionados em embalagens para venda a
-  retalho;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) Os produtos
-  para correção de matrizes de duplicadores (estênceis), os outros líquidos
-  corretores, bem como as fitas corretoras (exceto as da posição 96.12),
-  acondicionados em embalagens para venda a retalho;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>e) Os indicadores
-  fusíveis para verificação da temperatura dos fornos (cones de Seger, por
-  exemplo).<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>4 - Na
-  Nomenclatura, consideram-se &quot;resíduos municipais&quot; os resíduos de
-  residências, hotéis, restaurantes, lojas, escritórios, etc., e os detritos
-  recolhidos nas vias públicas e calçadas (passeios*), bem como os desperdícios
-  de materiais de construção e de demolição. Os resíduos municipais contêm
-  geralmente uma grande variedade de matérias, como plástico, borracha,
-  madeira, papel, têxteis, vidros, metais, produtos alimentícios, móveis
-  quebrados (partidos) e outros artigos danificados ou descartados. No entanto,
-  a expressão &quot;resíduos municipais&quot; não abrange:<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) As matérias ou
-  artigos que foram separados dos resíduos, por exemplo, resíduos de plástico,
-  borracha, madeira, papel, têxteis, vidro ou metais, pilhas e baterias usadas,
-  que seguem o seu próprio regime;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) Os resíduos
-  industriais;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Os resíduos
-  farmacêuticos, tal como definidos na Nota 4 k) do Capítulo 30;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) Os resíduos
-  clínicos definidos na Nota 6 a) abaixo.<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>5 - Na acepção da
-  posição 38.25, consideram-se &quot;lamas de tratamento de esgotos (lamas de
-  depuração*)&quot; as lamas provenientes das estações de tratamento de águas
-  residuais urbanas e os resíduos de pré-tratamento, os resíduos de limpeza e
-  as lamas não estabilizadas. Excluem-se as lamas estabilizadas, que sejam
-  próprias para utilização como adubos (fertilizantes) (Capítulo 31).<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>6 - Na acepção da
-  posição 38.25, a expressão &quot;outros resíduos&quot; abrange:<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>a) Os resíduos
-  clínicos, ou seja, os resíduos contaminados provenientes de pesquisas
-  médicas, trabalhos de análise ou de outros tratamentos médicos, cirúrgicos,
-  odontológicos ou veterinários que contenham frequentemente agentes
-  patogênicos e substâncias farmacêuticas e que requerem procedimentos
-  especiais de destruição (por exemplo, curativos (pensos), luvas e seringas,
-  usados);<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>b) Os resíduos de
-  solventes orgânicos;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>c) Os resíduos de
-  soluções decapantes para metais, de fluidos hidráulicos, de fluidos para freios
-  (travões) e de fluidos anticongelantes;<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>d) Os outros
-  resíduos das indústrias químicas ou das indústrias conexas.<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Todavia, a
-  expressão &quot;outros resíduos&quot; não abrange os resíduos que contenham
-  principalmente óleos de petróleo ou de minerais betuminosos (posição 27.10).<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>7 - Na acepção da
-  posição 38.26, o termo &quot;biodiesel&quot; designa os ésteres
-  monoalquílicos de ácidos graxos (gordos*), do tipo utilizado como carburante
-  ou combustível, derivados de gorduras e óleos animais ou vegetais, mesmo
-  usados.<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Notas de subposições.<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>1 - As subposições
-  3808.52 e 3808.59 compreendem unicamente as mercadorias da posição 38.08, que
-  contenham uma ou mais das seguintes substâncias: ácido perfluoroctano
-  sulfônico e seus sais; alaclor (ISO); aldicarb (ISO); aldrin (ISO); azinfós metil
-  (ISO); binapacril (ISO); canfecloro (ISO) (toxafeno); captafol (ISO);
-  clordano (ISO); clordimeforme (ISO); clorobenzilato (ISO); compostos de
-  mercúrio; compostos de tributilestanho; DDT (ISO) (clofenotano (DCI),
-  1,1,1-tricloro-2,2-bis(p-clorofenil)etano); 4,6-dinitro-o-cresol (DNOC (ISO))
-  ou seus sais; dinoseb (ISO), seus sais ou seus ésteres; dibrometo de etileno
-  (ISO) (1,2-dibromoetano); dicloreto de etileno (ISO) (1,2-dicloroetano);
-  dieldrin (ISO, DCI); endossulfan (ISO); éteres penta- e octabromodifenílicos;
-  fluoracetamida (ISO); fluoreto de perfluoroctanossulfonila; fosfamidona
-  (ISO); heptacloro (ISO); hexaclorobenzeno (ISO);
-  1,2,3,4,5,6-hexaclorocicloexano (HCH (ISO)), incluindo o lindano (ISO, DCI);
-  metamidofós (ISO); monocrotofós (ISO); oxirano (óxido de etileno); paration
-  (ISO); paration-metila (ISO) (metil paration); pentaclorofenol (ISO), seus
-  sais ou seus ésteres; perfluoroctanossulfonamidas; 2,4,5-T (ISO) (ácido
-  2,4,5-triclorofenoxiacético), seus sais ou seus ésteres.<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>A subposição
-  3808.59 compreende também as formulações de pó para polvilhar que contenham
-  uma mistura de benomil (ISO), carbofurano (ISO) e thiram (ISO).<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>2 - As subposições
-  3808.61 a 3808.69 compreendem unicamente as mercadorias da posição 38.08 que
-  contenham alfa-cipermetrina (ISO), bendiocarbe (ISO), bifentrina (ISO),
-  clorfenapir (ISO), ciflutrina (ISO), deltametrina (DCI, ISO), etofenprox
-  (DCI), fenitrotion (ISO), lambda-cialotrina (ISO), malation (ISO),
-  pirimifós-metila (ISO) ou propoxur (ISO).<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>3 - As subposições
-  3824.81 a 3824.88 compreendem unicamente as misturas e preparações que
-  contenham uma ou mais das seguintes substâncias: oxirano (óxido de etileno),
-  polibromobifenilas (PBB), policlorobifenilas (PCB), policloroterfenilas
-  (PCT), fosfato de tris 2,3-dibromopropila), aldrin (ISO), canfecloro (ISO)
-  (toxafeno), clordano (ISO), clordecona (ISO), DDT (ISO) (clofenotano (DCI),
-  1,1,1-tricloro-2,2-bis(p-clorofenil)etano), dieldrin (ISO, DCI), endossulfan
-  (ISO), endrin (ISO), heptacloro (ISO), mirex (ISO), 1,2,3,4,5,6- exaclorocicloexano
-  (HCH (ISO)), incluindo o lindano (ISO, DCI), pentaclorobenzeno (ISO),
-  hexaclorobenzeno (ISO), ácido perfluoroctano sulfônico, seus sais,
-  perfluoroctanossulfonamidas, fluoreto de perfluoroctanossulfonila ou éteres
-  tetra-, penta-, hexa-, hepta- ou octabromodifenílicos.<o:p></o:p></span></p>
-  <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>4 - Na acepção das
-  subposições 3825.41 e 3825.49, consideram-se &quot;resíduos de solventes
-  orgânicos&quot; os resíduos que contenham principalmente solventes orgânicos,
-  impróprios no estado em que se encontram para a sua utilização original, quer
-  sejam ou não destinados à recuperação dos solventes.<o:p></o:p></span></p>
+  style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>2 - Na acepção da
+  posição 68.02, a expressão &quot;pedras de cantaria ou de construção
+  trabalhadas&quot; aplica-se não só às pedras incluídas nas posições 25.15 ou
+  25.16, mas também a todas as outras pedras naturais (por exemplo, quartzitas,
+  sílex, dolomita, esteatita) trabalhadas do mesmo modo, exceto a ardósia.<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
   8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
   <strong><span style='font-family:"Helvetica",sans-serif'>Seção:</span></strong>
-  6 - PRODUTOS DAS INDÚSTRIAS QUÍMICAS OU DAS INDÚSTRIAS CONEXAS<o:p></o:p></span></p>
+  13 - OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS
+  SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -1442,7 +1399,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1510,8 +1467,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Quando não houver outras hipótes
-  de enquadramento para Regime não Cumulativo<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>Quando não houver outras hipótes de
+  enquadramento para Regime não Cumulativo<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1573,7 +1530,7 @@ Consultar desoneração por CNAE <o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1633,7 +1590,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td colspan=5 style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -1730,7 +1687,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
@@ -1746,7 +1703,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,98%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1762,7 +1719,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>32,98%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1770,7 +1727,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,94%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
@@ -1786,7 +1743,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,55%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1802,7 +1759,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,55%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1810,7 +1767,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,53%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
@@ -1826,7 +1783,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,55%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1842,7 +1799,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,55%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1850,7 +1807,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,53%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
@@ -1866,7 +1823,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,59%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1874,7 +1831,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1882,7 +1839,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,59%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1890,7 +1847,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>19,54%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
@@ -1930,7 +1887,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>25,68%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>22,75%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8'>
@@ -1946,7 +1903,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1962,7 +1919,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -1970,7 +1927,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,19%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9'>
@@ -1986,7 +1943,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2002,7 +1959,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>33,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2010,7 +1967,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,19%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10'>
@@ -2026,7 +1983,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2042,7 +1999,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>33,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2050,7 +2007,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,19%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11'>
@@ -2074,7 +2031,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>12,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2082,7 +2039,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>26,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2090,7 +2047,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12'>
@@ -2114,7 +2071,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2122,7 +2079,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,33%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,33%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2130,7 +2087,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>22,19%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>20,26%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13'>
@@ -2146,7 +2103,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,40%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>15,67%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2154,7 +2111,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2162,7 +2119,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,40%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,67%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2170,7 +2127,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,01%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,12%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14'>
@@ -2210,7 +2167,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15'>
@@ -2234,7 +2191,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2242,7 +2199,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2250,7 +2207,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16'>
@@ -2290,7 +2247,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:17'>
@@ -2306,7 +2263,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,35%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2322,7 +2279,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,35%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2330,7 +2287,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>25,84%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18'>
@@ -2346,7 +2303,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,35%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2354,7 +2311,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>12,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>7,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2362,7 +2319,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>28,35%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>21,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2370,7 +2327,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>25,84%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:19'>
@@ -2386,7 +2343,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,55%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>15,07%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2402,7 +2359,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,55%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>33,07%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2410,7 +2367,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,53%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>19,60%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:20'>
@@ -2426,7 +2383,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2434,7 +2391,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>20,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2442,7 +2399,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>34,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2450,7 +2407,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>25,51%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:21'>
@@ -2474,7 +2431,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2482,7 +2439,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,37%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>33,37%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2490,7 +2447,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>22,33%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>20,36%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:22'>
@@ -2506,7 +2463,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>15,37%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2514,7 +2471,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2522,7 +2479,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>33,37%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2530,7 +2487,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,19%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>20,36%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:23'>
@@ -2546,7 +2503,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,83%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>16,55%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2554,7 +2511,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>17,50%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2562,7 +2519,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>15,83%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>34,05%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2570,7 +2527,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>23,97%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>23,36%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:24'>
@@ -2579,6 +2536,46 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
   mso-fareast-font-family:"Times New Roman"'>Roraima<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>31,79%<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
+  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
+  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
+  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
+  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
+  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>Santa Catarina<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2610,47 +2607,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>27,38%<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Santa Catarina<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,45%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>17,00%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>33,45%<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,19%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>23,97%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:26'>
@@ -2666,7 +2623,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,35%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>15,07%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2682,7 +2639,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>28,35%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>27,07%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2690,7 +2647,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>25,84%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>19,59%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:27'>
@@ -2706,7 +2663,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>16,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2722,7 +2679,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>34,45%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2730,7 +2687,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>26,19%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:28;mso-yfti-lastrow:yes'>
@@ -2754,7 +2711,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>0,00%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,00%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2762,7 +2719,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>14,79%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>32,79%<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -2770,7 +2727,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h3>
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
   .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>20,26%<o:p></o:p></span></p>
+  mso-fareast-font-family:"Times New Roman"'>18,88%<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -2797,85 +2754,9 @@ para consultar a incidência de ST para a NCM pesquisada:<o:p></o:p></span></p>
 
 <ul style='margin-top:0cm' type=disc id="abas_estados">
  <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Acre <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Alagoas <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Amapá <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Amazonas <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Bahia <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Espírito Santo <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Goiás <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
+     mso-list:l1 level1 lfo3;display:none;tab-stops:list 36.0pt'><span
      style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
      "Times New Roman";display:none;mso-hide:all'>Mato Grosso <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Mato Grosso do Sul <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Minas Gerais <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Paraíba <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Paraná <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Pernambuco <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Rio de Janeiro <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Rio Grande do Sul <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Rondônia <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Roraima <sup>(3)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Santa Catarina <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>São Paulo <sup>(1)</sup><o:p></o:p></span></li>
- <li class=MsoNormal style='text-align:center;mso-line-height-alt:.7pt;
-     mso-list:l0 level1 lfo1;display:none;tab-stops:list 36.0pt'><span
-     style='font-size:8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
-     "Times New Roman";display:none;mso-hide:all'>Sergipe <sup>(1)</sup><o:p></o:p></span></li>
 </ul>
 
 <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
@@ -2887,489 +2768,6 @@ aqui não possuem ST com base na NCM selecionada ou o Estado não menciona a NCM
 em sua legislação.<o:p></o:p></span></p>
 
 <div>
-
-<div id=Acre>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Acre</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>MATERIAIS
-  DE CONSTRUÇÃO E CONGÊNERES<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Alagoas>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Alagoas</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>MATERIAIS
-  DE CONSTRUÇÃO<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Amapá>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Amapá</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção, Acabamento, Bricolagem ou Adorno.<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Amazonas>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Amazonas</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Outros
-  Materiais de Construção e Congêneres<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Bahia>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Bahia</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>MATERIAIS
-  DE CONSTRUÇÃO E CONGÊNERES<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="Espírito_Santo">
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Espírito Santo</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção e Congêneres<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Goiás>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Goiás</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Material
-  de construção, acabamento, bricolagem ou adorno.<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
 
 <div id="Mato_Grosso">
 
@@ -3386,7 +2784,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
   background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
@@ -3413,7 +2811,7 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
   solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
+  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>68.09<o:p></o:p></span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
   border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
@@ -3428,885 +2826,8 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
   mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
   padding:2.25pt 3.75pt 2.25pt 3.75pt'>
   <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="Mato_Grosso_do_Sul">
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Mato Grosso do Sul</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>MATERIAIS
-  DE CONSTRUÇÃO E CONGÊNERES<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="Minas_Gerais">
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Minas Gerais</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>MATERIAIS
-  DE CONSTRUÇÃO E CONGÊNERES<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Paraíba>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Paraíba</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de construção, acabamento, bricolagem ou adorno.<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Paraná>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Paraná</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção, Acabamento, Bricolagem ou Adorno<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Pernambuco>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Pernambuco</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção, acabamento, Bricolagem ou adorno.<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="Rio_de_Janeiro">
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Rio de Janeiro</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>MATERIAIS
-  DE CONSTRUÇÃO E CONGÊNERES<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="Rio_Grande_do_Sul">
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Rio Grande do Sul</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Operações
-  com Materiais de Construção, Acabamentos ou Adorno.<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Rondônia>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Rondônia</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção e Congêneres<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Roraima>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Roraima</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.11<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção e Congêneres<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas,
-  seladoras, massas para revestimento, aditivos para argamassas e afins..&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.12<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção e Congêneres<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas,
-  seladoras, massas para revestimento, aditivos para argamassas e afins..&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.19<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-  de Construção e Congêneres<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas,
-  seladoras, massas para revestimento, aditivos para argamassas e afins..&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="Santa_Catarina">
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Santa Catarina</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Operações
-  com Materiais de Construção, Acabamento, Bricolagem ou Adorno<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas,
-  seladoras e massas para revestimento.&nbsp; Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="São_Paulo">
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>São Paulo</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Operações
-  com Materias de Construção e Congêneres.<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-<div id=Sergipe>
-
-<h3 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
-<strong><span style='font-family:"Helvetica",sans-serif'>Sergipe</span></strong><o:p></o:p></span></h3>
-
-<div id="table_stinterna">
-
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<div>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>NCM<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Segmento<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Descrição<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>3816.00.1<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>MATERIAL
-  DE CONSTRUÇÃO, ACABAMENTO, BRICOLAGEM OU ADORNO.<o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Argamassas.&nbsp;
-  Detalhes » <o:p></o:p></span></p>
+  8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Obras
+  de gesso ou de composições à base de gesso .&nbsp; Detalhes » <o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -4330,325 +2851,24 @@ style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Rom
 style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br>
 <strong><span style='font-family:"Helvetica",sans-serif'>ST Interestadual</span></strong><o:p></o:p></span></h3>
 
-<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
-8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=hidden-print style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:
-.7pt'><span style='font-family:"Helvetica",sans-serif'>Listamos abaixo os
-protocolos e convênios firmados entre os Estados para a NCM selecionada: <o:p></o:p></span></p>
-
-<div id="table_stinterestadual">
-
-<h4 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><strong><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'>Materiais
-de Construção, Acabamento, Bricolagem e Adorno</span></strong><span
-style='font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></h4>
-
 <div>
 
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid #999999 .75pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='border:solid #999999 1.0pt;mso-border-alt:solid #999999 .75pt;
-  background:#DDDDDD;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo<o:p></o:p></span></b></p>
-  </td>
-  <td style='border:solid #999999 1.0pt;border-left:none;mso-border-left-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;background:#DDDDDD;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><b><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Estados<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 85 DE 30/09/2011
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>AC, AP, DF, GO, MT, MS, MG, PB,
-  PR, PE, RS, RO, SE <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS nº 128 de
-  16/08/2010 </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>PE, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS nº 104 de
-  10/08/2009 </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>BA, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 33 DE 30/03/2012
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>SP, SE <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 116 DE
-  03/09/2012 </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>SC, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 92 DE 23/07/2009
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>RS, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 32 DE 17/07/2014
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>RJ, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:8'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 32 DE 05/06/2009
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>MG, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:9'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS nº 82 de 30/09/2011
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>GO, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:10'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 20 DE 20/02/2013
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>ES, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:11'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 60 DE 11/08/2011
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>AP, SP <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:12'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 30 DE 30/03/2012
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>AP, PA <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:13'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 26 DE 20/01/2010
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>AP, BA, ES, MG, RJ <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 196 DE
-  11/12/2009 </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>AP, ES, MG, PR, RJ, RS, SC <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:15;mso-yfti-lastrow:yes'>
-  <td style='border:solid #999999 1.0pt;border-top:none;mso-border-top-alt:
-  solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>Protocolo ICMS Nº 71 DE 30/09/2011
-  </span></strong><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-  </td>
-  <td style='border-top:none;border-left:none;border-bottom:solid #999999 1.0pt;
-  border-right:solid #999999 1.0pt;mso-border-top-alt:solid #999999 .75pt;
-  mso-border-left-alt:solid #999999 .75pt;mso-border-alt:solid #999999 .75pt;
-  padding:2.25pt 3.75pt 2.25pt 3.75pt'>
-  <p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-  .7pt'><span style='font-size:8.5pt;font-family:"Helvetica",sans-serif;
-  mso-fareast-font-family:"Times New Roman"'>PR, SP <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-</div>
+<p class=MsoNormal style='mso-line-height-alt:.7pt'><span style='font-size:
+8.5pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:"Times New Roman"'><br
+style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]><o:p></o:p></span></p>
 
 <p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
-style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>A aplicação ou não
-da ST Interestadual depende de vários fatores, como, por exemplo, descrição da
-mercadoria, finalidade da operação, segmento, etc. <o:p></o:p></span></p>
+style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Não há nenhum
+protocolo ou convênio firmado entre os Estados para a NCM selecionada. <o:p></o:p></span></p>
 
-<p class=hidden-print style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:
-.7pt'><span style='font-family:"Helvetica",sans-serif'>Para determinar sua
-aplicação consulte o Sistema de ST Interestadual: Acessar o Sistema » <o:p></o:p></span></p>
+<p style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:.7pt'><span
+style='font-size:8.5pt;font-family:"Helvetica",sans-serif'>Para mais detalhes
+consulte o sistema de ST Interestadual: Acessar o Sistema de ST Interestadual »
+<o:p></o:p></span></p>
+
+</div>
 
 </div>
 
